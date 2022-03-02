@@ -1,9 +1,22 @@
-### Nice to meet you. I'm Tobia or xXAI-botXx here...
+### Nice to meet you! 
+I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.
 
-- I study Artificial Intelligence in Offenburg (Germany)
-- My primary language is Python (and a bit Java)
-- Most of the time I'm learning Python stuff
-- Enjoy my Projects! 😄
+
+Enjoy my Projects! 😄
+___
+### My skills
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+- Power BI (Data Visualization + Wrangling/Preparation)
+- KNIME
+- Data Science Knowledge
+  - Pipeline & basics
+  - Data Preparation & Extraction
+  - Machine Learning
+  - Mathematical and statistical fundamentals for DS
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- SQL
 ___
 ### Connect with me:
 [<img align="left" alt="xXAI-BotXx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)
