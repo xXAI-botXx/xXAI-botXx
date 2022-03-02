@@ -31,4 +31,7 @@ ___
 <br>
 ___
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&theme=aura_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&&theme=aura_dark&layout=compact)
+
+<!-- you can use following command instead of the gradient colors: &theme=aura_dark >
+<!-- Or Gradient color: &bg_color=30,e96443,904e95&title_color=fff&text_color=fff >
