@@ -6,6 +6,13 @@ Enjoy my Projects! 😄
 ___
 ### My skills
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - in general
+  - Numpy
+  - Pandas
+  - Sklearn
+  - SciPy
+  - PyTorch (coming soon)
+  - Tensorflow (coming soon)
 - Power BI (Data Visualization + Wrangling/Preparation)
 - Data Science Knowledge
   - Pipeline & basics
