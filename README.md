@@ -6,17 +6,19 @@ Enjoy my Projects! 😄
 ___
 ### My skills
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) (beginner)
-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
 - Power BI (Data Visualization + Wrangling/Preparation)
 - Data Science Knowledge
   - Pipeline & basics
   - Data Preparation & Extraction
+  - Data Engineering
   - Machine Learning
+  - Deep Learning
   - Mathematical and statistical fundamentals for DS
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - KNIME
 - SQL
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) (beginner)
+- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
 ___
 ### Some Projects:
 
