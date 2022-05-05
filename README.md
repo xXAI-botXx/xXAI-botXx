@@ -28,11 +28,13 @@ ___
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) (beginner)
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
+<br>
 
 ___
 ### Some Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
+<br>
 ___
 ### Connect with me:
 [<img align="left" alt="xXAI-BotXx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)
