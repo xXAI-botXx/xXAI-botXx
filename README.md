@@ -10,7 +10,7 @@ ___
   - Numpy
   - Pandas
   - Sklearn
-  - SciPy
+  - Dusk
   - PyTorch (coming soon)
   - Tensorflow (coming soon)
 - Power BI (Data Visualization + Wrangling/Preparation)
