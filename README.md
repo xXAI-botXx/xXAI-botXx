@@ -10,7 +10,7 @@ So...Enjoy my Projects! 😄
 ___
 ### Overview
 
-I now, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
+I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
 To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
 
 **Data Science Projects**
