@@ -118,7 +118,7 @@ Here is a small visual conclusion/collection/impression of some projects:
 ___
 <!--### My Skills-->
 
-<a name="My-Skill"></a>
+<a name="My-Skills"></a>
 [<img width="100%" align="center" src="./res/collection/affinity/banner_my_skills.png"></img>](#Contents)
 
 <img src="res/main_word_cloud_fancy.png" align="right"></img>
