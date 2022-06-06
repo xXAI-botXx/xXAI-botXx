@@ -1,7 +1,7 @@
 <!-- Welcome, feel free to copy parts you want in your repository :) -->
 # Tobia Ippolito | xXAI_botXx
 
-<img width="100%" align="center" src="./res/collection/affinity/red_wood.png"></img>
+<img width="100%" align="center" src="./res/collection/affinity/banner_red_wood.png"></img>
 
 1. [Introduction](#Nice-to-meet-you!)
 2. [Overview](#Overview)
