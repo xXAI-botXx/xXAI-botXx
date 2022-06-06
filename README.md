@@ -1,6 +1,8 @@
 <!-- Welcome, feel free to copy parts you want in your repository :) -->
 # Tobia Ippolito | xXAI_botXx
 
+<img width="100%" align="center" src="./res/collection/affinity/red_wood.png"></img>
+
 1. [Introduction](#Nice-to-meet-you!)
 2. [Overview](#Overview)
 3. [Visual Impression](#Visual-Impression)
@@ -95,7 +97,7 @@ To simplify that, i listed my repositories by category and with some words to cl
 <!-- Add README's to each repo and add pictures and videos for them -->
 
 <br>
-That are my repositories (since the date 06.06.2022). Let's going on!
+That are my repositories (since the date 06.06.2022).
 
 <br>
 
