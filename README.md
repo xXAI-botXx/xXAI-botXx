@@ -1,5 +1,52 @@
 <!-- Welcome, feel free to copy parts you want in your repository :) -->
 
+<style>
+body{
+  max-width: 70%;
+  margin:0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+}
+ 
+gallery-section{
+  position: relative;
+}
+ 
+gallery-section img{
+  width:40%;
+  position: absolute;
+  z-index:10;
+  transition:all .5s;
+  box-shadow: -3px 1px 5px rgba(0,0,0,.5);
+}
+ 
+img1{
+  left:5rem;
+}
+ 
+img2{
+  left:10rem;
+  top:1rem;
+}
+ 
+img3{
+  left:15rem;
+  top:2rem;
+}
+ 
+gallery-section img:hover{
+  z-index:20;
+  transform: scale(1.2) rotate(-10deg);
+}
+ 
+gallery-section:hover img:not(:hover){
+  transform:scale(.9);
+  opacity:0;
+}
+</style>
+
 ### Nice to meet you! 
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
@@ -93,67 +140,6 @@ ___
 Here is a small visual conclusion/collection/impression of some projects:
 
 <img src="./res/collection.png"></img>
-
-<style>
-body{
-  max-width: 70%;
-  margin:0 auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 50vh;
-}
- 
-.gallery-section{
-  position: relative;
-}
- 
-.gallery-section img{
-  width:40%;
-  position: absolute;
-  z-index:10;
-  transition:all .5s;
-  box-shadow: -3px 1px 5px rgba(0,0,0,.5);
-}
- 
-.img1{
-  left:5rem;
-}
- 
-.img2{
-  left:10rem;
-  top:1rem;
-}
- 
-.img3{
-  left:15rem;
-  top:2rem;
-}
- 
-.gallery-section img:hover{
-  z-index:20;
-  transform: scale(1.2) rotate(-10deg);
-}
- 
-.gallery-section:hover img:not(:hover){
-  transform:scale(.9);
-  opacity:0;
-}
- 
-@media screen and (max-width:500px){
-  .img1{
-    left:5rem;
-  }
- 
-  .img2{
-    left:7rem;
-  }
- 
-  .img3{
-    left:10rem;
-  }
-}
-</style>
 
 <div class="gallery-section">
  
