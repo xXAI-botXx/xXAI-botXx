@@ -92,8 +92,9 @@ ___
 ### Visual Impression
 Here is a small visual conclusion/collection/impression of some projects:
 
-<img src="./res/collection/affinity/collection_01.png"></img>
-<img src="./res/collection/affinity/collection_01.png"></img>
+<img align="center" src="./res/collection/affinity/collection_01.png"></img>
+<img align="center" src="./res/collection/affinity/collection_02.png"></img>
+<img align="center" src="./res/collection/affinity/collection_03.png"></img>
 
 ___
 ### My skills
