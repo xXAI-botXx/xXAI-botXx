@@ -1,4 +1,5 @@
 <!-- Welcome, feel free to copy parts you want in your repository :) -->
+
 ### Nice to meet you! 
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
@@ -7,6 +8,9 @@ Now i'm more interested in data and python.<br>
 > If you asked yourself why xXAI-botXx than read it backwards but🤫
 
 So...Enjoy my Projects! 😄
+
+<div align=center><img src="./res/collection/python_lair.gif"></img></div>
+
 ___
 ### Overview
 
@@ -55,10 +59,16 @@ To simplify that, i listed my repositories by category and with some words to cl
 **Java Repositories**
 - [Pi-Collision](https://github.com/xXAI-botXx/Pi_Collisions)<br>
   It's about an application for showing the pi-collision effect. It's a small application with a GUI and some physics in it. The Pi-Collision-effect is that if 2 objects collide and there is a wall, the amount of collisions going to be the number of pi. It's very interesting. To go higher with the amount of collisions I implemted a performance mode, where nothing is drawing and the collisions going faster.  
+  
 - [Falling Champion](https://github.com/xXAI-botXx/Falling-Champion)<br>
   Falling Champion is the title of my own created game. I used Java to make a really fun game. Special for my games are the credits. I think it is a nice game and it was particularly important to me that it is a well-rounded overall package.
+  
 - [2D Bomberman](https://github.com/xXAI-botXx/2D-Bomberman)<br>
   Another game heavily inspired of the original Bomberman. And there is an easter egg in the credits!
+  
+- [Hearts](https://github.com/xXAI-botXx/Hearts)<br>
+  In this project I implemented the cardgame hearts in java with server programming. And there is a GUI.
+
 - [Interactive Text Adventure Reader](https://github.com/xXAI-botXx/Text-Adventure)<br>
   It should be an application for interactive stories and they should be written by the users it self too. Unfortunately i wasn't creative enough to write a nice story 😂
 
@@ -79,10 +89,79 @@ That are my repositories (since the date 06.06.2022). Let's going on!
 <br>
 
 ___
-### Visual Impression
-Here is a small visual conclusion/collection of some projects:
+### My Gallery (visual impression)
+Here is a small visual conclusion/collection/impression of some projects:
 
 <img src="./res/collection.png"></img>
+
+<style>
+body{
+  max-width: 70%;
+  margin:0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+}
+ 
+.gallery-section{
+  position: relative;
+}
+ 
+.gallery-section img{
+  width:40%;
+  position: absolute;
+  z-index:10;
+  transition:all .5s;
+  box-shadow: -3px 1px 5px rgba(0,0,0,.5);
+}
+ 
+.img1{
+  left:5rem;
+}
+ 
+.img2{
+  left:10rem;
+  top:1rem;
+}
+ 
+.img3{
+  left:15rem;
+  top:2rem;
+}
+ 
+.gallery-section img:hover{
+  z-index:20;
+  transform: scale(1.2) rotate(-10deg);
+}
+ 
+.gallery-section:hover img:not(:hover){
+  transform:scale(.9);
+  opacity:0;
+}
+ 
+@media screen and (max-width:500px){
+  .img1{
+    left:5rem;
+  }
+ 
+  .img2{
+    left:7rem;
+  }
+ 
+  .img3{
+    left:10rem;
+  }
+}
+</style>
+
+<div class="gallery-section">
+ 
+<img src="./res/collection/api.png" alt="lion" class="img1">
+<img src="./res/collection/api_2.png" alt="zebra" class="img2">
+<img src="./res/collection/ast.svg" alt="owl" class="img3">
+ 
+</div>
 
 ___
 ### My skills
