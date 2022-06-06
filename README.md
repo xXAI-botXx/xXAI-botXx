@@ -11,10 +11,13 @@ ___
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   - Numpy
   - Pandas
+  - Dask
   - Sklearn
-  - Dusk
-  - PyTorch (coming soon)
+  - PyTorch 
   - Tensorflow (coming soon)
+  - Matplotlib
+  - Seaborn
+  - Plotly
 - Power BI (Data Visualization + Wrangling/Preparation)
 - Data Science Knowledge
   - Pipeline & basics
@@ -28,13 +31,19 @@ ___
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) (beginner)
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
+- Ready to learn more :)
+
 <br>
 
 ___
 ### Some Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Weather-Analysis&theme=aura_dark)](https://github.com/xXAI-botXx/Weather-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/Job-Posts-Similarity)
+
 <br>
+
 ___
 ### Connect with me:
 [<img align="left" alt="xXAI-BotXx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)
@@ -43,6 +52,7 @@ ___
 [<img align="left" alt="xXAI-BotXx | Flickr" width="22px" src="https://simpleicons.org/icons/discord.svg" />](## "<<AI_bot>>#5130")
 [<img align="left" alt="xXAI-BotXx | Flickr" width="22px" src="https://simpleicons.org/icons/replit.svg" />](https://replit.com/@xXAIbotXx)
 <br>
+
 ___
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&&theme=aura_dark&layout=compact)
