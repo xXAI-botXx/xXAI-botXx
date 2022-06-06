@@ -1,52 +1,5 @@
 <!-- Welcome, feel free to copy parts you want in your repository :) -->
 
-<style>
-body{
-  max-width: 70%;
-  margin:0 auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 50vh;
-}
- 
-gallery-section{
-  position: relative;
-}
- 
-gallery-section img{
-  width:40%;
-  position: absolute;
-  z-index:10;
-  transition:all .5s;
-  box-shadow: -3px 1px 5px rgba(0,0,0,.5);
-}
- 
-img1{
-  left:5rem;
-}
- 
-img2{
-  left:10rem;
-  top:1rem;
-}
- 
-img3{
-  left:15rem;
-  top:2rem;
-}
- 
-gallery-section img:hover{
-  z-index:20;
-  transform: scale(1.2) rotate(-10deg);
-}
- 
-gallery-section:hover img:not(:hover){
-  transform:scale(.9);
-  opacity:0;
-}
-</style>
-
 ### Nice to meet you! 
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
@@ -56,7 +9,7 @@ Now i'm more interested in data and python.<br>
 
 So...Enjoy my Projects! 😄
 
-<div align=center><img src="./res/collection/python_lair.gif"></img></div>
+<div align=center><img width="30%" src="./res/collection/python_lair.gif"></img></div>
 
 ___
 ### Overview
@@ -136,18 +89,11 @@ That are my repositories (since the date 06.06.2022). Let's going on!
 <br>
 
 ___
-### My Gallery (visual impression)
+### Visual Impression
 Here is a small visual conclusion/collection/impression of some projects:
 
-<img src="./res/collection.png"></img>
-
-<div class="gallery-section">
- 
-<img src="./res/collection/api.png" alt="lion" class="img1">
-<img src="./res/collection/api_2.png" alt="zebra" class="img2">
-<img src="./res/collection/ast.svg" alt="owl" class="img3">
- 
-</div>
+<img src="./res/collection/affinity/collection_01.png"></img>
+<img src="./res/collection/affinity/collection_01.png"></img>
 
 ___
 ### My skills
@@ -203,5 +149,14 @@ ___
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&&theme=aura_dark&layout=compact)
 
-<!-- you can use following command instead of the gradient colors: &theme=aura_dark >
-<!-- Or Gradient color: &bg_color=30,e96443,904e95&title_color=fff&text_color=fff >
+<!-- you can use following command instead of the gradient colors: &theme=aura_dark -->
+<!-- Or Gradient color: &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
+
+___
+### My Gallery 
+Here i will provide some pictures and videos. I think it's interesting to see something :)
+
+>>> coming soon <<<
+
+
+___
