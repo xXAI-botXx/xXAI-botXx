@@ -12,7 +12,10 @@
 8. [My Gallery](#My-Gallery)
 
 ___
-### Nice to meet you! 
+<!--### Nice to meet you!-->
+<a name="Introduction"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_introduction.png"></img>
+
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
 Now i'm more interested in data and python.<br>
@@ -24,7 +27,9 @@ So...Enjoy my Projects! 😄
 <div align=center><img width="30%" src="./res/collection/python_lair.gif"></img></div>
 
 ___
-### Overview
+<!--### Overview-->
+<a name="Overview"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_overview.png"></img>
 
 I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
 To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
@@ -101,7 +106,9 @@ That are my repositories (since the date 06.06.2022).
 <br>
 
 ___
-### Visual Impression
+<!--### Visual Impression-->
+<a name="Visual-Impression"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_visual_impression.png"></img>
 Here is a small visual conclusion/collection/impression of some projects:
 
 <img align="center" src="./res/collection/affinity/collection_01.png"></img>
@@ -109,7 +116,10 @@ Here is a small visual conclusion/collection/impression of some projects:
 <img align="center" src="./res/collection/affinity/collection_03.png"></img>
 
 ___
-### My Skills
+<!--### My Skills-->
+
+<a name="My-Skill"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_my_skill.png"></img>
 
 <img src="res/main_word_cloud_fancy.png" align="right"></img>
 
@@ -143,7 +153,9 @@ ___
 <!-- adding soft skills? -->
 
 ___
-### Highlighted Projects
+<!--### Highlighted Projects-->
+<a name="Highlighted-Projects"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_highlighted_projects.png"></img>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Weather-Analysis&theme=aura_dark)](https://github.com/xXAI-botXx/Weather-Analysis)
@@ -152,7 +164,10 @@ ___
 <br>
 
 ___
-### Connect with me
+<!--### Connect with me-->
+<a name="Connect-with-me"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_connect.png"></img>
+
 [<img align="left" alt="xXAI-BotXx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)
 [<img align="left" alt="xXAI-BotXx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tobia-ippolito-437174182/)
 [<img align="left" alt="xXAI-BotXx | Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/187005571@N07/)
@@ -161,17 +176,23 @@ ___
 <br>
 
 ___
-### Stats
+<!--### Stats-->
+<a name="Stats"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_stats.png"></img>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&&theme=aura_dark&layout=compact)
 
 <!-- you can use following command instead of the gradient colors: &theme=aura_dark -->
 <!-- Or Gradient color: &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
 
 ___
-### My Gallery 
+<!--### My Gallery -->
+<a name="My-Gallery"></a>
+<img width="100%" align="center" src="./res/collection/affinity/banner_my_gallery.png"></img>
+
 Here i will provide some pictures and videos. I think it's interesting to see something :)
 
->>> coming soon <<<
+-> coming soon <-
 
 
 ___
