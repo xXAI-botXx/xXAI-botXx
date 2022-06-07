@@ -1,34 +1,7 @@
-<!-- Welcome, feel free to copy parts you want in your repository :) -->
-<a name="Contents"></a>
-<img width="100%" align="center" src="./res/collection/affinity/banner_title.png"></img>
-
-<div align="center">
-
-<h2 align="center" href="#Nice-to-meet-you!">Introduction</h2>
-
-
-1. [Overview](#Overview)
-
-2. [Visual Impression](#Visual-Impression)
-
-3. [My Skills](#My-Skills)
-
-4. [Highlighted Projects](#Highlighted-Projects)
-
-5. [Connect with me](#Connect-with-me)
-
-6. [Stats](#Stats)
-
-7. [My Gallery](#My-Gallery)
-
-  </div>
-
-
-
 ___
 <!--### Nice to meet you!-->
 <a name="Introduction"></a>
-[<img width="100%" align="center" src="./res/collection/affinity/banner_introduction.png"></img>](#Contents)
+[<img width="100%" align="center" src="./res/banner/banner_introduction.png"></img>](#Contents)
 
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
@@ -41,14 +14,15 @@ So...Enjoy my Projects! 😄
 <div align=center><img width="30%" src="./res/collection/python_lair.gif"></img></div>
 
 ___
-<!--### Overview-->
-<a name="Overview"></a>
-[<img width="100%" align="center" src="./res/collection/affinity/banner_overview.png"></img>](#Contents)
+<!--### My Work-->
+<a name="My-Work"></a>
+[<img width="100%" align="center" src="./res/collection/affinity/banner_my_work.png"></img>](#Contents)
 
 I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
 To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
 
 **Data Science Projects**
+
 - [Wer hat gebohrt?](https://github.com/xXAI-botXx/Wer-hat-gebohrt)<br>
   In this project, an application was programmed that collects drilling data using a GUI and then tries to assign a driller to one of two people using ML algorithms. The 2 people had to create training data beforehand. Voltage, audio and current data are available.<br>
   This project is quite extensive and so I wrote my own API documentation for it. [Click here to see it](https://xxai-botxx.github.io/Wer-hat-gebohrt/) (I love it😍).<br>
