@@ -2,14 +2,28 @@
 <a name="Contents"></a>
 <img width="100%" align="center" src="./res/collection/affinity/banner_title.png"></img>
 
-1. [Introduction](#Nice-to-meet-you!)
-2. [Overview](#Overview)
-3. [Visual Impression](#Visual-Impression)
-4. [My Skills](#My-Skills)
-5. [Highlighted Projects](#Highlighted-Projects)
-6. [Connect with me](#Connect-with-me)
-7. [Stats](#Stats)
-8. [My Gallery](#My-Gallery)
+<div align="center">
+
+<h2 align="center" href="#Nice-to-meet-you!">Introduction</h2>
+
+
+1. [Overview](#Overview)
+
+2. [Visual Impression](#Visual-Impression)
+
+3. [My Skills](#My-Skills)
+
+4. [Highlighted Projects](#Highlighted-Projects)
+
+5. [Connect with me](#Connect-with-me)
+
+6. [Stats](#Stats)
+
+7. [My Gallery](#My-Gallery)
+
+  </div>
+
+
 
 ___
 <!--### Nice to meet you!-->
