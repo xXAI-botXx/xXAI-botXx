@@ -1,12 +1,13 @@
 ___
 <!--### Nice to meet you!-->
 <a name="Introduction"></a>
-[<img width="100%" align="center" src="./res/banner/banner_introduction.png"></img>](#Contents)
+[<img height="5%" align="center" src="./res/banner/banner_introduction.png"></img>](#Contents)
 
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
 Now i'm more interested in data and python.<br>
 <br>
+
 > If you asked yourself why xXAI-botXx than read it backwards but🤫
 
 So...Enjoy my Projects! 😄
