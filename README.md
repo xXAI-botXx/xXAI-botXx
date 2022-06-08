@@ -378,3 +378,6 @@ ___
 <br><br>
 
 ___
+
+Special thanks to [Elisa Wilkes](https://www.linkedin.com/in/elisa-wilkes-4691a9198) for the creation of the illustrations
+___
