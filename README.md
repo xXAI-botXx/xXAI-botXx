@@ -30,14 +30,13 @@ ___
 
 <!--### Nice to meet you!-->
 <a name="Introduction"></a>
-[<img align="center" src="./res/banner/banner_introduction.png#gh-dark-mode-only"></img>](#top)
-[<img align="center" src="./res/banner/banner_introduction.png#gh-light-mode-only"></img>](#top)
-<!--
+[<img align="center" src="./res/banner/banner_introduction.png"></img>](#top)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./res/banner/banner_introduction.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./res/banner/banner_introduction_alt.png">
 </picture>
--->
+
 <br><br>
 
 <div align="center">
