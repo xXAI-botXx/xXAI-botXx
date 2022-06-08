@@ -9,7 +9,7 @@ ___
 
 [<img align="center" src="./res/banner/icon_my_skills.png">My Skills</img>](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img style="margin:15px" src="./res/banner/my_work.png">My Work</img>](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" src="./res/banner/icon_my_work.png">My Work</img>](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [<img style="margin:15px" src="./res/banner/icon_visual_impression.png">Visual Impression</img>](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
