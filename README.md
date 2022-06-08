@@ -188,11 +188,12 @@ ___
 <br><br>
 
 <div align="center">
-[<img align="left" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)
-[<img align="left" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tobia-ippolito-437174182/)
-[<img align="left" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/187005571@N07/)
-[<img align="left" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/discord.svg" />](## "<<AI_bot>>#5130")
-[<img align="left" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/replit.svg" />](https://replit.com/@xXAIbotXx)
+
+[<img alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)
+[<img alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tobia-ippolito-437174182/)
+[<img alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/187005571@N07/)
+[<img alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/discord.svg" />](## "<<AI_bot>>#5130")
+[<img alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/replit.svg" />](https://replit.com/@xXAIbotXx)
 
 </div>
 <br>
