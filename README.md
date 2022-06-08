@@ -1,7 +1,9 @@
 ___
 <!--### Nice to meet you!-->
 <a name="Introduction"></a>
-[<img align="center" src="./res/banner/banner_introduction.png"></img>](#Contents)
+[<img align="center" src="./res/banner/banner_introduction_alt.png"></img>](#Contents)
+
+<br><br><br>
 
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
@@ -14,7 +16,7 @@ So...Enjoy my Projects! 😄
 
 <div align=center><img width="30%" src="./res/collection/python_lair.gif"></img></div>
 
-<br>
+<br><br>
 
 ___
 <!--### My Skills-->
@@ -22,7 +24,7 @@ ___
 <a name="My-Skills"></a>
 [<img align="center" src="./res/banner/banner_my_skills.png"></img>](#Introduction)
 
-<br><br>
+<br><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Weather-Analysis&theme=aura_dark)](https://github.com/xXAI-botXx/Weather-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/Job-Posts-Similarity)
@@ -55,18 +57,16 @@ ___
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
 - Ready to learn more :)
 
-<br>
-
 <!-- adding soft skills? -->
 
-<br>
+<br><br>
 
 ___
 <!--### My Work-->
 <a name="My-Work"></a>
 [<img width="100%" align="center" src="./res/banner/banner_my_work.png"></img>](#Introduction)
 
-<br><br>
+<br><br><br>
 
 I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
 To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
@@ -141,14 +141,14 @@ To simplify that, i listed my repositories by category and with some words to cl
 <br>
 That are my repositories (since the date 06.06.2022).
 
-<br>
+<br><br>
 
 ___
 <!--### Visual Impression-->
 <a name="Visual-Impression"></a>
 [<img align="center" src="./res/banner/banner_visual_impression.png"></img>](#Introduction)
 
-<br><br>
+<br><br><br>
 
 Here is a small visual conclusion/collection/impression of some projects:
 
@@ -156,47 +156,167 @@ Here is a small visual conclusion/collection/impression of some projects:
 <img align="center" src="./res/collection/affinity/collection_02.png"></img>
 <img align="center" src="./res/collection/affinity/collection_03.png"></img>
 
+<br><br>
+
 ___
 <!--### Showroom -->
 <a name="Showroom"></a>
 [<img align="center" src="./res/banner/banner_showroom.png"></img>](#Introduction)
 
-<br><br>
+<br><br><br>
 
 Here i will provide some pictures and videos. I think it's interesting to see something :)
+<br><br>
 
--> coming soon <-
+---
+<h3 align='center'>Python Lair</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/python_lair_01.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/python_lair_02.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/python_lair_03.mp4" type="video/mp4">
+</video>
+
+<br> <br>
+
+---
+<h3 align='center'>Visualizations</h3>
+---
+...
+
+<br> <br> 
+
+---
+<h3 align='center'>Discord Bot</h3>
+---
+...
+
+<br> <br>
+
+---
+<h3 align='center'>2D Bomberman</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/bomberman_01.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/bomberman_02.mp4" type="video/mp4">
+</video>
+
+<br> <br>
+
+---
+<h3 align='center'>Falling Champion</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/falling_champion_01.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/falling_champion_02.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/falling_champion_03.mp4" type="video/mp4">
+</video>
+
+<br> <br>
+
+---
+<h3 align='center'>Hearts</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/hearts_01.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/hearts_02.mp4" type="video/mp4">
+</video>
+
+<br> <br>
+
+---
+<h3 align='center'>PS5 Bot</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/PS5_Bot bei der Arbeit.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/PS5_Bot Testkauf.mp4" type="video/mp4">
+</video>
+
+<br> <br>
+
+---
+<h3 align='center'>YouTube Bot</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/youtube_bot_01.mp4" type="video/mp4">
+</video>
+<br>
+<video width="960" height="540" controls>
+  <source src="res/collection/youtube_bot_02.mp4" type="video/mp4">
+</video>
+
+<br> <br>
+
+---
+<h3 align='center'>Pi Collision</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/Simulationsprogramm.mp4" type="video/mp4">
+</video>
+
+<br> <br>
+
+---
+<h3 align='center'>Text Adventure</h3>
+---
+<video width="960" height="540" controls>
+  <source src="res/collection/text_adventure_show.mp4" type="video/mp4">
+</video>
+
+
+<br><br>
 
 ___
 <!--### Stats-->
 <a name="Stats"></a>
 [<img width="100%" align="center" src="./res/banner/banner_stats.png"></img>](#Introduction)
 
-<br><br>
+<br><br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&&theme=aura_dark&layout=compact)
 
 <!-- you can use following command instead of the gradient colors: &theme=aura_dark -->
 <!-- Or Gradient color: &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
 
-
+<br><br>
 ___
 <!--### Connect with me-->
 <a name="Connect-with-me"></a>
 [<img width="100%" align="center" src="./res/banner/banner_connect.png"></img>](#Introduction)
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 
-[<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tobia-ippolito-437174182/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/187005571@N07/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/discord.svg" />](## "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tobia-ippolito-437174182/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/187005571@N07/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/discord.svg" />](## "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/replit.svg" />](https://replit.com/@xXAIbotXx)
 
 </div>
 
-<br>
+<br><br>
 
 ___
