@@ -1,7 +1,7 @@
 <a name="top"></a>
+<!--
 <h1 align="center">Navigation</h1>
 <br><br>
-
 
 <div align="center">
 
@@ -15,21 +15,35 @@
 
 </div>
 
+
 <!--
 <div style="float:left;text-align:center;">
     <a href="#Connect-with-me"><img width="50px" style="margin:15px" src="./res/banner/icon_connect.png"></img></a>
     <div class="caption">Connect with me</div>  
 </div>
--->
+-- >
 
 <br><br>
 ___
-
+-->
 
 
 <!--### Nice to meet you!-->
 <a name="Introduction"></a>
 [<img align="center" src="./res/banner/banner_introduction.png"></img>](#top)
+
+<br><br>
+
+<div align="center">
+
+[<img style="margin:15px" alt="My Skills" width="50px" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="My Work" width="50px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Visual Impression" width="50px" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Showroom" width="50px" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Stats" width="50px" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Connect with me" width="50px" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
 
 <br><br>
 
@@ -356,8 +370,8 @@ ___
 [<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Star_Guardian73)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/discord.svg">](## "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx) 
+[<img style="margin:15px" alt="xXAI-BotXx | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](## "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx) 
 
 </div>
 
