@@ -3,7 +3,7 @@ ___
 <a name="Introduction"></a>
 [<img align="center" src="./res/banner/banner_introduction_alt.png"></img>](#Contents)
 
-<br><br><br>
+<br><br>
 
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman i had enough of games and my dream was fulfilled in a certain way...<br>
@@ -16,7 +16,7 @@ So...Enjoy my Projects! 😄
 
 <div align=center><img width="30%" src="./res/collection/python_lair.gif"></img></div>
 
-<br><br>
+<br>
 
 ___
 <!--### My Skills-->
@@ -24,11 +24,11 @@ ___
 <a name="My-Skills"></a>
 [<img align="center" src="./res/banner/banner_my_skills.png"></img>](#Introduction)
 
-<br><br><br>
+<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Weather-Analysis&theme=aura_dark)](https://github.com/xXAI-botXx/Weather-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/Job-Posts-Similarity)
-<br><br>
+<br><br><br>
 
 <img src="res/main_word_cloud_fancy.png" align="right"></img>
 
@@ -59,14 +59,14 @@ ___
 
 <!-- adding soft skills? -->
 
-<br><br>
+<br>
 
 ___
 <!--### My Work-->
 <a name="My-Work"></a>
 [<img width="100%" align="center" src="./res/banner/banner_my_work.png"></img>](#Introduction)
 
-<br><br><br>
+<br><br>
 
 I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
 To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
@@ -171,6 +171,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>Python Lair</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/python_lair_01.mp4" type="video/mp4">
 </video>
@@ -202,6 +203,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>2D Bomberman</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/bomberman_01.mp4" type="video/mp4">
 </video>
@@ -215,6 +217,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>Falling Champion</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/falling_champion_01.mp4" type="video/mp4">
 </video>
@@ -232,6 +235,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>Hearts</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/hearts_01.mp4" type="video/mp4">
 </video>
@@ -245,6 +249,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>PS5 Bot</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/PS5_Bot bei der Arbeit.mp4" type="video/mp4">
 </video>
@@ -258,6 +263,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>YouTube Bot</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/youtube_bot_01.mp4" type="video/mp4">
 </video>
@@ -271,6 +277,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>Pi Collision</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/Simulationsprogramm.mp4" type="video/mp4">
 </video>
@@ -280,6 +287,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 <h3 align='center'>Text Adventure</h3>
 ---
+
 <video width="960" height="540" controls>
   <source src="res/collection/text_adventure_show.mp4" type="video/mp4">
 </video>
