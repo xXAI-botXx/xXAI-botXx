@@ -174,10 +174,6 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 ---
 
 
-https://user-images.githubusercontent.com/50902823/172580656-12b87c5d-8497-423e-8ae9-a678dd239b24.mp4
-
-<br>
-
 https://user-images.githubusercontent.com/50902823/172580733-9cad99d5-dfa9-4c0a-8fda-9cf466af1581.mp4
 
 <br>
