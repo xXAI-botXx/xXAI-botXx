@@ -1,5 +1,3 @@
-___
-
 <a name="top"></a>
 <h1 align="center">Navigation</h1>
 <br><br>
@@ -7,16 +5,39 @@ ___
 <div align="center">
 
 <div style="align: left; text-align:center;">
-    <img href="#Introduction" style="margin:15px" src="./res/banner/icon_introduction.png">
+    <a href="#Introduction"><img style="margin:15px" src="./res/banner/icon_introduction.png"></img></a>
     <div class="caption">Introduction</div>
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" src="./res/banner/icon_my_skills.png">My Skills</img>](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" src="./res/banner/icon_my_work.png">My Work</img>](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" src="./res/banner/icon_visual_impression.png">Visual Impression</img>](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" src="./res/banner/icon_showroom.png">Showroom</img>](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" src="./res/banner/icon_stats.png">Stats</img>](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" src="./res/banner/icon_connect.png">Connect with me</img>](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="align: left; text-align:center;">
+    <a href="#My-Skills"><img style="margin:15px" src="./res/banner/icon_my_skills.png"></img></a>
+    <div class="caption">My Skills</div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="align: left; text-align:center;">
+    <a href="#My-Work"><img style="margin:15px" src="./res/banner/icon_my_work.png"></img></a>
+    <div class="caption">My Work</div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="align: left; text-align:center;">
+    <a href="#Visual-Impression"><img style="margin:15px" src="./res/banner/icon_visual_impression.png"></img></a>
+    <div class="caption">Visual impression</div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="align: left; text-align:center;">
+    <a href="#Showroom"><img style="margin:15px" src="./res/banner/icon_showroom.png"></img></a>
+    <div class="caption">Showroom</div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="align: left; text-align:center;">
+    <a href="#Stats"><img style="margin:15px" src="./res/banner/icon_stats.png"></img></a>
+    <div class="caption">Statistics</div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="align: left; text-align:center;">
+    <a href="#Connect-with-me"><img style="margin:15px" src="./res/banner/icon_connect.png"></img></a>
+    <div class="caption">Connect with me</div>
+</div>
 
 </div>
 
