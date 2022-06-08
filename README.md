@@ -1,7 +1,7 @@
 ___
 <!--### Nice to meet you!-->
 <a name="Introduction"></a>
-[<img align="center" src="./res/banner/banner_introduction_alt.png"></img>](#Contents)
+[<img align="center" src="./res/banner/banner_introduction.png"></img>](#Contents)
 
 <br><br>
 
@@ -170,24 +170,23 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 
 ---
 <h3 align='center'>Python Lair</h3>
+
 ---
 
-<video width="960" height="540" controls>
-  <source src="res/collection/python_lair_01.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/50902823/172580656-12b87c5d-8497-423e-8ae9-a678dd239b24.mp4
 <br>
-<video width="960" height="540" controls>
-  <source src="res/collection/python_lair_02.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172580733-9cad99d5-dfa9-4c0a-8fda-9cf466af1581.mp4
 <br>
-<video width="960" height="540" controls>
-  <source src="res/collection/python_lair_03.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172580754-6be96943-9a3c-424b-9a8a-7aee3b37a33d.mp4
+
+
 
 <br> <br>
 
 ---
 <h3 align='center'>Visualizations</h3>
+
 ---
 ...
 
@@ -195,6 +194,7 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 
 ---
 <h3 align='center'>Discord Bot</h3>
+
 ---
 ...
 
@@ -202,98 +202,81 @@ Here i will provide some pictures and videos. I think it's interesting to see so
 
 ---
 <h3 align='center'>2D Bomberman</h3>
+
 ---
 
-<video width="960" height="540" controls>
-  <source src="res/collection/bomberman_01.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/50902823/172580887-b5e822a1-8e07-45e6-a8ba-9208df50c9f4.mp4
 <br>
-<video width="960" height="540" controls>
-  <source src="res/collection/bomberman_02.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172581485-8c157091-c30d-4369-9b70-f4ef87e996d6.mp4
 
 <br> <br>
 
 ---
 <h3 align='center'>Falling Champion</h3>
+
 ---
 
-<video width="960" height="540" controls>
-  <source src="res/collection/falling_champion_01.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/50902823/172581641-422c87a7-d38b-4701-aac8-5488fefa7acf.mp4
 <br>
-<video width="960" height="540" controls>
-  <source src="res/collection/falling_champion_02.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172581702-788d3199-0dbd-441e-b2d2-f6d2797b3858.mp4
 <br>
-<video width="960" height="540" controls>
-  <source src="res/collection/falling_champion_03.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172581750-1b917fe7-24ce-4b1f-b265-744d0c003c81.mp4
 
 <br> <br>
 
 ---
 <h3 align='center'>Hearts</h3>
+
 ---
 
-<video width="960" height="540" controls>
-  <source src="res/collection/hearts_01.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172581886-c1ae8a0c-1641-4881-a45a-59b105904a84.mp4
 <br>
-<video width="960" height="540" controls>
-  <source src="res/collection/hearts_02.mp4" type="video/mp4">
-</video>
-
-<br> <br>
-
----
-<h3 align='center'>PS5 Bot</h3>
----
-
-<video width="960" height="540" controls>
-  <source src="res/collection/PS5_Bot bei der Arbeit.mp4" type="video/mp4">
-</video>
-<br>
-<video width="960" height="540" controls>
-  <source src="res/collection/PS5_Bot Testkauf.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172581895-a2640416-f8ec-4620-83f7-8ab00aa18292.mp4
 
 <br> <br>
 
 ---
 <h3 align='center'>YouTube Bot</h3>
+
 ---
 
-<video width="960" height="540" controls>
-  <source src="res/collection/youtube_bot_01.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/50902823/172582689-25d630c9-af9c-41ab-862b-cbdeb6c0a616.mp4
 <br>
-<video width="960" height="540" controls>
-  <source src="res/collection/youtube_bot_02.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172582708-848f2779-d2dd-431a-8697-2e484d14a81c.mp4
+
 
 <br> <br>
 
 ---
 <h3 align='center'>Pi Collision</h3>
+
 ---
 
-<video width="960" height="540" controls>
-  <source src="res/collection/Simulationsprogramm.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/50902823/172583018-d778dd4d-e381-471f-ad06-e4682904d5ad.mp4
 
 <br> <br>
 
 ---
 <h3 align='center'>Text Adventure</h3>
+
 ---
 
-<video width="960" height="540" controls>
-  <source src="res/collection/text_adventure_show.mp4" type="video/mp4">
-</video>
-
+https://user-images.githubusercontent.com/50902823/172582920-1bbe8805-135a-4bd5-ad44-8d52e977d2f2.mp4
 
 <br><br>
+
+---
+<h3 align='center'>PS5 Bot</h3>
+
+---
+
+https://user-images.githubusercontent.com/50902823/172582564-b6596300-cd7e-4287-9da8-b273be31389b.mp4
+
+
+<br> <br>
 
 ___
 <!--### Stats-->
