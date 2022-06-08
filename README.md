@@ -2,38 +2,25 @@
 <h1 align="center">Navigation</h1>
 <br><br>
 
+
 <div align="center">
-    
-<div style="float:left;text-align:center;">
-    <a href="#Introduction"><img width="50px" style="margin:15px" src="./res/banner/icon_introduction.png"></img></a>
-    <div class="caption">Introduction</div>
-</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div style="float:left;text-align:center;">
-    <a href="#My-Skills"><img width="50px" style="margin:15px" src="./res/banner/icon_my_skills.png"></img></a>
-    <div class="caption">My Skills</div>
-</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div style="float:left;text-align:center;">
-    <a href="#My-Work"><img width="50px" style="margin:15px" src="./res/banner/icon_my_work.png"></img></a>
-    <div class="caption">My Work</div>
-</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div style="float:left;text-align:center;">
-    <a href="#Visual-Impression"><img width="50px" style="margin:15px" src="./res/banner/icon_visual_impression.png"></img></a>
-    <div class="caption">Visual impression</div>
-</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div style="float:left;text-align:center;">
-    <a href="#Showroom"><img width="50px" style="margin:15px" src="./res/banner/icon_showroom.png"></img></a>
-    <div class="caption">Showroom</div>
-</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div style="float:left;text-align:center;">
-    <a href="#Stats"><img width="50px" style="margin:15px" src="./res/banner/icon_stats.png"></img></a>
-    <div class="caption">Statistics</div>
-</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<div style="float:left;text-align:center;">
-    <a href="#Connect-with-me"><img width="50px" style="margin:15px" src="./res/banner/icon_connect.png"></img></a>
-    <div class="caption">Connect with me</div>
-</div>
+
+[<img style="margin:15px" alt="Introduction" width="50px" src="./res/banner/icon_introduction.png">](#Introduction)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="My Skills" width="50px" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="My Work" width="50px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Visual Impression" width="50px" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Showroom" width="50px" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Stats" width="50px" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Connect with me" width="50px" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
+
+<!--
+<div style="float:left;text-align:center;">
+    <a href="#Connect-with-me"><img width="50px" style="margin:15px" src="./res/banner/icon_connect.png"></img></a>
+    <div class="caption">Connect with me</div>  
+</div>
+-->
 
 <br><br>
 ___
@@ -70,6 +57,10 @@ ___
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Weather-Analysis&theme=aura_dark)](https://github.com/xXAI-botXx/Weather-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/Job-Posts-Similarity)
 <br><br><br>
+
+---
+
+<br>
 
 <img src="res/main_word_cloud_fancy.png" align="right"></img>
 
@@ -224,7 +215,7 @@ https://user-images.githubusercontent.com/50902823/172580754-6be96943-9a3c-424b-
 
 
 <br> <br>
-
+<!--
 ---
 <h3 align='center'>Visualizations</h3>
 
@@ -237,9 +228,20 @@ https://user-images.githubusercontent.com/50902823/172580754-6be96943-9a3c-424b-
 <h3 align='center'>Discord Bot</h3>
 
 ---
-...
+
+<div style="float:left">
+    
+<img src="./res/collection/chess.png"></img>
+<img src="./res/collection/discord_calc.png"></img>
+<img src="./res/collection/dicord_coinflip.png"></img>
+<img src="./res/collection/discord_func_01.png"></img>
+<img src="./res/collection/discord_func_02.png"></img>
+<img src="./res/collection/discord_youtube.png"></img>
+
+</div>
 
 <br> <br>
+-->
 
 ---
 <h3 align='center'>2D Bomberman</h3>
@@ -350,11 +352,12 @@ ___
 <br><br><br>
 
 <div align="center">
-[<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Star_Guardian73)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tobia-ippolito-437174182/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />](https://www.flickr.com/photos/187005571@N07/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/discord.svg" />](## "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/replit.svg" />](https://replit.com/@xXAIbotXx)
+    
+[<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Star_Guardian73)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/discord.svg">](## "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx) 
 
 </div>
 
