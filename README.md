@@ -5,18 +5,17 @@ ___
 <br><br>
 
 <div align="center">
-[<img align="center" src="./res/banner/icon_introduction.png">Introduction</img>](#Introduction)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img align="center" src="./res/banner/icon_my_skills.png">My Skills</img>](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<div style="align: left; text-align:center;">
+    <img href="#Introduction" style="margin:15px" src="./res/banner/icon_introduction.png">
+    <div class="caption">Introduction</div>
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" src="./res/banner/icon_my_skills.png">My Skills</img>](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" src="./res/banner/icon_my_work.png">My Work</img>](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 [<img style="margin:15px" src="./res/banner/icon_visual_impression.png">Visual Impression</img>](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 [<img style="margin:15px" src="./res/banner/icon_showroom.png">Showroom</img>](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 [<img style="margin:15px" src="./res/banner/icon_stats.png">Stats</img>](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 [<img style="margin:15px" src="./res/banner/icon_connect.png">Connect with me</img>](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
