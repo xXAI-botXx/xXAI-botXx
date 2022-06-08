@@ -30,8 +30,14 @@ ___
 
 <!--### Nice to meet you!-->
 <a name="Introduction"></a>
-[<img align="center" src="./res/banner/banner_introduction.png"></img>](#top)
-
+[<img align="center" src="./res/banner/banner_introduction.png#gh-dark-mode-only"></img>](#top)
+[<img align="center" src="./res/banner/banner_introduction.png#gh-light-mode-only"></img>](#top)
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./res/banner/banner_introduction.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./res/banner/banner_introduction_alt.png">
+</picture>
+-->
 <br><br>
 
 <div align="center">
@@ -244,7 +250,7 @@ https://user-images.githubusercontent.com/50902823/172580754-6be96943-9a3c-424b-
 ---
 
 <div style="float:left">
-    
+
 <img src="./res/collection/chess.png"></img>
 <img src="./res/collection/discord_calc.png"></img>
 <img src="./res/collection/dicord_coinflip.png"></img>
@@ -370,7 +376,7 @@ ___
 <br><br><br>
 
 <div align="center">
-    
+
 [<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Star_Guardian73)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
