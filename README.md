@@ -68,7 +68,11 @@ And I am currently planning an exchange semester in Finland.
 <br>
 So...Enjoy my Projects! 😄
 
-<div align=center><img width="30%" src="./res/collection/python_lair.gif"></img></div>
+<div align=center>
+    
+[<img width="30%" src="./res/collection/python_lair.gif"></img>](## "Ssss 3.14159265359")
+
+</div>
 
 <br>
 
@@ -207,8 +211,6 @@ ___
 [<img align="center" src="./res/banner/banner_visual_impression.png"></img>](#top)
 
 <br><br><br>
-
-Here is a small visual conclusion/collection/impression of some projects:
 
 <img align="center" src="./res/collection/affinity/collection_01.png"></img>
 <img align="center" src="./res/collection/affinity/collection_02.png"></img>
