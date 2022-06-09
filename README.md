@@ -361,7 +361,9 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&theme=aura_dark&layout=compact)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
-> WakaTime is being implemented soon!
+
+<img width=75% src=https://wakatime.com/share/@xXAI_botXx/0cc84a2c-2c6c-43b8-9f86-e0a85169586d.png target=https://wakatime.com/></img>
+
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xXAI-botXx)-->
 
 <!-- you can use following command instead of the gradient colors: &theme=aura_dark -->
