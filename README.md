@@ -42,12 +42,12 @@ ___
 
 <div align="center">
 
-[<img style="margin:15px" OnMouseOver="this.style.width='70px'" alt="My Skills" width="50px" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="My Work" width="50px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Visual Impression" width="50px" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Showroom" width="50px" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Stats" width="50px" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Connect with me" width="50px" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" OnMouseOver="this.style.width='170px'" OnMouseOut="this.style.width='150px'" alt="My Skills" width="150px" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="My Work" width="150px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Visual Impression" width="150px" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Showroom" width="150px" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Stats" width="150px" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="Connect with me" width="150px" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
