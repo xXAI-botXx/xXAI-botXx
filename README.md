@@ -70,7 +70,7 @@ So...Enjoy my Projects! 😄
 
 <div align=center>
     
-[<img width="30%" src="./res/collection/python_lair.gif">](## "Ssss #3.14159265359")
+[<img width="30%" src="./res/collection/python_lair.gif">](# "Ssss 3.14159265359")
 
 </div>
 
