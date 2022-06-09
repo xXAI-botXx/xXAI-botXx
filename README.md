@@ -374,13 +374,13 @@ ___
 <br><br>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 138 Contributions in the Year 2022
+> 🏆 139 Contributions in the Year 2022
  > 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
@@ -450,7 +450,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xXAI-botXx/xXAI-botXx/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 18:43:11 UTC
+ Last Updated on 09/06/2022 19:52:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- see here: https://github.com/anmol098/waka-readme-stats-->
