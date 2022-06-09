@@ -43,7 +43,7 @@ ___
 <div align="center">
 
 [<img style="margin:15px" OnMouseOver="this.style.width='170px'" OnMouseOut="this.style.width='100px'" alt="My Skills" width="100px" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="My Work" width="150px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="My Work" width="100px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Visual Impression" width="100px" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Showroom" width="100px" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Stats" width="100px" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
