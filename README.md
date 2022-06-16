@@ -154,6 +154,8 @@ To simplify that, i listed my repositories by category and with some words to cl
 <br>
 
 **Other Python Projects**
+- [QR-Code Creator](https://github.com/xXAI-botXx/QR-Code-Creator)<br>
+  This repo contains an generator for QR-COdes developed for Replit.
 - [Discord Bot](https://github.com/xXAI-botXx/Discord-Bot) -> not visible yet, but soon :)<br>
   It's about a alrounder Bot for discord. The bot offers a wide range of skills and is the perfect chat-assistent.<br>
   I invested a lot of time and the code is nowadays partwise a bit messy. But I love the bot. It can draw function, calculate calculations, flip a coin, play chess, play YouTube Videos as MP3 and much more!
