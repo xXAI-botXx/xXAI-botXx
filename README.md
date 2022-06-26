@@ -378,7 +378,7 @@ ___
 <br><br>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -423,21 +423,16 @@ Sunday       42 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         ██████████████████████░░░   89.55% 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Project Helper           1 hr 6 mins         ██████████████████████░░░   88.02% 
-Pythonic-X-ray           7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Python-Execution         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
-QR-Code-Creator          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-2022_05_16 Job Posts Simi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -458,7 +453,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xXAI-botXx/xXAI-botXx/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/06/2022 01:04:14 UTC
+ Last Updated on 26/06/2022 06:15:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- see here: https://github.com/anmol098/waka-readme-stats-->
