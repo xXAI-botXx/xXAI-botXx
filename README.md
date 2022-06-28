@@ -378,7 +378,7 @@ ___
 <br><br>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -423,16 +423,17 @@ Sunday       42 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 59 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 59 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+2022_06_27 Language Model2 hrs 55 mins       ████████████████████████░   97.39% 
+Project Helper           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -453,7 +454,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xXAI-botXx/xXAI-botXx/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2022 01:04:14 UTC
+ Last Updated on 28/06/2022 06:17:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- see here: https://github.com/anmol098/waka-readme-stats-->
