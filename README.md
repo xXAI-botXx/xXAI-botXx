@@ -378,7 +378,7 @@ ___
 <br><br>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -421,13 +421,13 @@ Sunday       42 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -451,7 +451,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xXAI-botXx/xXAI-botXx/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/07/2022 18:15:34 UTC
+ Last Updated on 06/07/2022 01:08:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- see here: https://github.com/anmol098/waka-readme-stats-->
