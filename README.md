@@ -378,7 +378,7 @@ ___
 <br><br>-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -451,7 +451,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xXAI-botXx/xXAI-botXx/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/07/2022 01:07:59 UTC
+ Last Updated on 08/07/2022 06:18:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- see here: https://github.com/anmol098/waka-readme-stats-->
