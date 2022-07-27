@@ -99,8 +99,8 @@ ___
   - Pandas
   - Dask
   - Sklearn
+  - Tensorflow/Keras
   - PyTorch 
-  - Tensorflow (coming soon)
   - Matplotlib
   - Seaborn
   - Plotly
