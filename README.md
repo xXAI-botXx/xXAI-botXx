@@ -139,7 +139,7 @@ Here I learned the basics of a data scientist. Started with basic/overview of ar
 <h3>Machine Learning Course on Udemy</h3>
     
 ---
-Blub
+This online course on udemy has accompanied me through my studies until now. I learned a lot about machine learning and partly deepened my knowledge. Furthermore I could take a relativly deep look in advanced topic like Deep Learning, Reinforcement Learning and Computer Vision.
 <br><br><br>
 <img width="60%" src=https://user-images.githubusercontent.com/50902823/182477851-6da6f13a-e162-4792-9ead-179e7d1aaa3b.jpg></img>
 
