@@ -56,12 +56,17 @@ ___
 I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman or my Falling Champion I had enough of games and my dream was fulfilled in a certain way...<br>
 This gap was and still is filled with the world of data and artificial intelligence.<br>
-I love to make projects and online courses in this field and learn more and more about it. And there is currently no end to the learning process in sight. There are so many interesting areas and areas of application.<br>
+I love to make projects and online courses in this field and learn more and more about it. And there is currently no end to the learning process in sight. There are so many interesting areas and areas of application, it's so marvelous.<br>
+At this point I can't choose a specific area which I will focus on. I would like to gain more experience and knowledge before i make a decision here.
 <br>
-Away from the zeros and ones I like to be in nature and have found a passion in photography (although i still have a lot to learn here, but that doesn't matter for the fun).
+<br>
+Away from the zeros and ones I like to be in nature and have found a passion in photography (although i still have a lot to learn here, but that doesn't matter for the fun).<br>
+I also like reading and listening to books. It ranges from fantasy to specialist books. If I had to choose a genre it would probably be fantasy (or sometimes science fiction). But definitely not crime or thriller.
 <br>
 <br>
-I'm about to start my internship semester at [Markant](https://www.markant.com/de/).
+Current state:<br>
+I'm about to start my internship semester at [Markant](https://www.markant.com/de/).<br>
+Until then I will learn with online courses.<br>
 <br>
 <br>
 
