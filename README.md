@@ -126,6 +126,11 @@ ___
 - learn with every project more :)
 
 <br>
+
+In addition to that I bring other skills with me. Among other things, presentation skills. 
+...
+
+<br>
 <br>
 
 ## Certifications
