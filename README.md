@@ -129,6 +129,7 @@ ___
 
 In addition to that I bring other skills with me. Among other things, presentation skills. 
 ...
+
 @[prezi](https://prezi.com/1kkxdtlp4241/valentines-day/)
 
 <br>
