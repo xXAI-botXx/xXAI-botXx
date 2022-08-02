@@ -64,7 +64,7 @@ I will soon start my internship semester at [Markant](https://www.markant.com/de
 
 > If you asked yourself why xXAI-botXx than read it backwards but🤫
 <br>
-So...Enjoy my Projects! 😄
+So...Enjoy my profile! 😄
 
 <div align=center>
     
