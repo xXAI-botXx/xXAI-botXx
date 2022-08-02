@@ -66,7 +66,7 @@ I also like reading and listening to books. It ranges from fantasy to specialist
 <br>
 Current state:<br>
 I'm about to start my internship semester at [Markant](https://www.markant.com/de/).<br>
-Until then I will learn with online courses.<br>
+Until then I will learn with online courses.
 <br>
 <br>
 
