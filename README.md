@@ -57,9 +57,11 @@ I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [ar
 I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman or my Falling Champion I had enough of games and my dream was fulfilled in a certain way...<br>
 This gap was and still is filled with the world of data and artificial intelligence.<br>
 I love to make projects and online courses in this field and learn more and more about it. And there is currently no end to the learning process in sight. There are so many interesting areas and areas of application.<br>
-During my studies I first learned the basics of data science. Such like the mathimatical, programming and data basics. Following I have learned about data bases and machine learning. Furthermore I learned Deep Learning, NLP and more about Data Engineering.<br>
 <br>
-I will soon start my internship semester at [Markant](https://www.markant.com/de/).
+Away from the zeros and ones I like to be in nature and have found a passion in photography (although i still have a lot to learn here, but that doesn't matter for the fun).
+<br>
+<br>
+I'm about to start my internship semester at [Markant](https://www.markant.com/de/).
 <br>
 <br>
 
