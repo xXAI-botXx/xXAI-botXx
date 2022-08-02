@@ -130,6 +130,9 @@ ___
 <img width="50%" src=https://user-images.githubusercontent.com/50902823/182451374-f8d51854-5b7a-4f9c-b37b-72449ed807e7.png></img>
 <img width="50%" src=https://user-images.githubusercontent.com/50902823/182451395-b03cca7e-a33e-41e6-9792-2c0681da6915.png></img>
 
+<br><br>
+*More are coming soon
+
 </div>
 
 <!-- adding soft skills? -->
