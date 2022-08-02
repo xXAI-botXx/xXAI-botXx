@@ -84,26 +84,26 @@ ___
 
 <br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Weather-Analysis&theme=aura_dark)](https://github.com/xXAI-botXx/Weather-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/Job-Posts-Similarity)
 <br><br><br>
-
----
-
 <br>
 
+<!--
 <img src="res/main_word_cloud_fancy.png" align="right"></img>
+-->
+
+## Overview
+(just about)
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   - Numpy
   - Pandas
-  - Dask
   - Sklearn
-  - Tensorflow/Keras
-  - PyTorch 
   - Matplotlib
   - Seaborn
   - Plotly
+  - Tensorflow/Keras
+  - PyTorch 
 - Power BI (Data Visualization + Wrangling/Preparation)
 - Data Science Knowledge
   - Pipeline & basics
@@ -117,7 +117,20 @@ ___
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) (beginner)
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
-- Ready to learn more :)
+- learn with every project more :)
+
+<br>
+<br>
+
+## Certifications
+
+<div align=center>
+
+<b></b>
+<img width="50%" src=https://user-images.githubusercontent.com/50902823/182451374-f8d51854-5b7a-4f9c-b37b-72449ed807e7.png></img>
+<img width="50%" src=https://user-images.githubusercontent.com/50902823/182451395-b03cca7e-a33e-41e6-9792-2c0681da6915.png></img>
+
+</div>
 
 <!-- adding soft skills? -->
 
@@ -360,6 +373,16 @@ https://user-images.githubusercontent.com/50902823/172582564-b6596300-cd7e-4287-
 
 
 <br> <br>
+
+---
+<h3 align='center'>Reinforcement Learning - OpenAI gym - CartPole</h3>
+
+---
+
+https://user-images.githubusercontent.com/50902823/182451220-dfe70440-122d-4e4e-89c8-586abf193361.mp4
+
+
+<br><br>
 
 ___
 <!--### Stats-->
