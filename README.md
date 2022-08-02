@@ -60,8 +60,6 @@ During my studies I first learned the basics of data science. Such like the math
 <br>
 I will soon start my internship semester at [Markant](https://www.markant.com/de/).
 <br>
-And I am currently planning an exchange semester in Finland.
-<br>
 <br>
 
 > If you asked yourself why xXAI-botXx than read it backwards but🤫
@@ -126,7 +124,9 @@ ___
 
 <div align=center>
 
-<b></b>
+<h4>Certification for the first part of the Bachelor of Science in Artifical Intelligence.</h4><br>
+Here I learned the basics of a data scientist. Started with basic/overview of artificial intelligence, programming basics, informatics basics, mathematic and statistic basics, visual analysis basics and of course machine learning basics (+ softskills for business).
+<br><br>
 <img width="50%" src=https://user-images.githubusercontent.com/50902823/182451374-f8d51854-5b7a-4f9c-b37b-72449ed807e7.png></img>
 <img width="50%" src=https://user-images.githubusercontent.com/50902823/182451395-b03cca7e-a33e-41e6-9792-2c0681da6915.png></img>
 
