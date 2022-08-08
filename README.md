@@ -136,6 +136,22 @@ Here I will share some of my prasentations with you. Feel free to watch a few of
 <br><br>
 <a href=https://prezi.com/view/50Ptxgfn9dE4Pil3je0p/>Job Post Similarity</a><br>My part is Einführung, Word2Vec, Location + Type, Anwendung.<br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183373890-e1be4a6c-f71d-4f02-81f7-7dcf8ae5bf5d.png></img>
+<br><br>
+<a href=https://prezi.com/view/7mU4Cw0tUzXC6Ljgf36I>Projekt 1: Automation</a><br>My part is the full prasentation.<br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183375138-9f9b748d-f1be-41db-8762-3499a119ff1c.png></img>
+<br><br>
+<a href=https://prezi.com/view/KPaFuUE4Su0TQ6gRGPue/>JVM</a><br>My part is the full prasentation.<br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183375643-becaef21-2cce-40b3-8ccb-8cb3974e0b44.png></img>
+<br><br>
+<a href=https://prezi.com/view/GumafVI493iUUlJIZCTT/>Web Agentur</a><br>My part is 'Unser Unternehmen', 'Projekt', 'Projektstrukturplan', 'Ganttbalkendiagramm', 'Netzwerk an Kommunikationspartnern' and 'Herausforderungen'.<br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183377561-9df7243d-5748-43de-a6ec-c53435920bd6.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183378871-69672d6d-4e24-4375-a930-51aec1710416.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183379133-a6adcfc2-92f7-4238-ab7e-2c75c4b8d502.png></img>
+
+
+
+<br><br>
+And there are more :)
 
 
 </div>
