@@ -125,32 +125,68 @@ ___
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
 - learn with every project more :)
 
----
+<br>
+<br>
+
+## Prasentations
 
 In addition to that I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding with many animations and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
 Here I will share some of my prasentations with you. Feel free to watch a few of them :)
 
 <div align=center>
-<a href=https://prezi.com/view/KOqFTcdj01JzbzEXPm0j>Mean Shift</a><br>My part is the Mean Shift.<br>
+    
+---
+<h3><a href=https://prezi.com/view/KOqFTcdj01JzbzEXPm0j>Mean Shift</a></h3>
+    
+---
+My part is the Mean Shift.
+<br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183371612-eb728349-f3ba-4864-8eca-3db3e180a208.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183379942-b331ca1c-9898-42b8-aaaa-4c89526e9f83.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183380151-98291d51-5037-4369-9d3a-710b51cc7bd3.png></img>
 <br><br>
-<a href=https://prezi.com/view/50Ptxgfn9dE4Pil3je0p/>Job Post Similarity</a><br>My part is Einführung, Word2Vec, Location + Type, Anwendung.<br>
+
+---
+<h3><a href=https://prezi.com/view/50Ptxgfn9dE4Pil3je0p/>Job Post Similarity</a></h3>
+    
+---
+My part is Einführung, Word2Vec, Location + Type, Anwendung.
+<br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183373890-e1be4a6c-f71d-4f02-81f7-7dcf8ae5bf5d.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183380794-0e6559c9-acb0-48a3-be5a-68748c981382.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183381063-a89b04fd-eacd-4d9a-9b99-e891ab4654ff.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183381292-a35cefef-1d5b-4218-ae63-733bf92622f4.png></img>
 <br><br>
-<a href=https://prezi.com/view/7mU4Cw0tUzXC6Ljgf36I>Projekt 1: Automation</a><br>My part is the full prasentation.<br>
+
+---
+<h3><a href=https://prezi.com/view/7mU4Cw0tUzXC6Ljgf36I>Projekt 1: Automation</a></h3>
+    
+---
+My part is the full prasentation.
+<br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183375138-9f9b748d-f1be-41db-8762-3499a119ff1c.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183382333-48835b46-9da9-4a85-ad2a-a441595c865d.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183381798-47a09d53-253c-48f7-a213-6912c1d92ada.png></img>
 <br><br>
-<a href=https://prezi.com/view/KPaFuUE4Su0TQ6gRGPue/>JVM</a><br>My part is the full prasentation.<br>
+
+---
+<h3><a href=https://prezi.com/view/KPaFuUE4Su0TQ6gRGPue/>JVM</a></h3>
+    
+---
+My part is the full prasentation.
+<br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183375643-becaef21-2cce-40b3-8ccb-8cb3974e0b44.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183382662-300576c9-a6bf-4596-a8cd-0a6e51753768.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183382956-47036cc0-ec21-48f6-940b-39fe404fe14c.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183383221-6065976a-88b2-4f6a-8100-9c0b5b3a463a.png></img>
 <br><br>
-<a href=https://prezi.com/view/GumafVI493iUUlJIZCTT/>Web Agentur</a><br>My part is 'Unser Unternehmen', 'Projekt', 'Projektstrukturplan', 'Ganttbalkendiagramm', 'Netzwerk an Kommunikationspartnern' and 'Herausforderungen'.<br>
+
+---
+<h3><a href=https://prezi.com/view/GumafVI493iUUlJIZCTT/>Web Agentur</a></h3>
+    
+---
+My part is 'Unser Unternehmen', 'Projekt', 'Projektstrukturplan', 'Ganttbalkendiagramm', 'Netzwerk an Kommunikationspartnern' and 'Herausforderungen'.
+<br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183377561-9df7243d-5748-43de-a6ec-c53435920bd6.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183378871-69672d6d-4e24-4375-a930-51aec1710416.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183379133-a6adcfc2-92f7-4238-ab7e-2c75c4b8d502.png></img>
