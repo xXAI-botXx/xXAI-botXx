@@ -127,7 +127,7 @@ ___
 
 ---
 
-In addition to that I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
+In addition to that I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding with many animations and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
 Here I will share some of my prasentations with you. Feel free to watch a few of them :)
 
 <div align=center>
@@ -138,9 +138,14 @@ Here I will share some of my prasentations with you. Feel free to watch a few of
 <br><br>
 <a href=https://prezi.com/view/50Ptxgfn9dE4Pil3je0p/>Job Post Similarity</a><br>My part is Einführung, Word2Vec, Location + Type, Anwendung.<br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183373890-e1be4a6c-f71d-4f02-81f7-7dcf8ae5bf5d.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183380794-0e6559c9-acb0-48a3-be5a-68748c981382.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183381063-a89b04fd-eacd-4d9a-9b99-e891ab4654ff.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183381292-a35cefef-1d5b-4218-ae63-733bf92622f4.png></img>
 <br><br>
 <a href=https://prezi.com/view/7mU4Cw0tUzXC6Ljgf36I>Projekt 1: Automation</a><br>My part is the full prasentation.<br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183375138-9f9b748d-f1be-41db-8762-3499a119ff1c.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183382333-48835b46-9da9-4a85-ad2a-a441595c865d.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183381798-47a09d53-253c-48f7-a213-6912c1d92ada.png></img>
 <br><br>
 <a href=https://prezi.com/view/KPaFuUE4Su0TQ6gRGPue/>JVM</a><br>My part is the full prasentation.<br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183375643-becaef21-2cce-40b3-8ccb-8cb3974e0b44.png></img>
