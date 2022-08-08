@@ -128,7 +128,7 @@ ___
 <br>
 <br>
 
-## Prasentations
+## Presentations
 
 In addition to that I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding with many animations and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
 Here I will share some of my prasentations with you. Feel free to watch a few of them :)
@@ -162,7 +162,7 @@ My part is Einführung, Word2Vec, Location + Type, Anwendung.
 <h3><a href=https://prezi.com/view/7mU4Cw0tUzXC6Ljgf36I>Projekt 1: Automation</a></h3>
     
 ---
-My part is the full prasentation.
+My part is the full presentation.
 <br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183375138-9f9b748d-f1be-41db-8762-3499a119ff1c.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183382333-48835b46-9da9-4a85-ad2a-a441595c865d.png></img>
@@ -173,7 +173,7 @@ My part is the full prasentation.
 <h3><a href=https://prezi.com/view/KPaFuUE4Su0TQ6gRGPue/>JVM</a></h3>
     
 ---
-My part is the full prasentation.
+My part is the full presentation.
 <br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183375643-becaef21-2cce-40b3-8ccb-8cb3974e0b44.png></img>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183382662-300576c9-a6bf-4596-a8cd-0a6e51753768.png></img>
