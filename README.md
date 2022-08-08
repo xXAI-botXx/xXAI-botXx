@@ -133,6 +133,8 @@ Here I will share some of my prasentations with you. Feel free to watch a few of
 <div align=center>
 <a href=https://prezi.com/view/KOqFTcdj01JzbzEXPm0j>Mean Shift</a><br>My part is the Mean Shift.<br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183371612-eb728349-f3ba-4864-8eca-3db3e180a208.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183379942-b331ca1c-9898-42b8-aaaa-4c89526e9f83.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183380151-98291d51-5037-4369-9d3a-710b51cc7bd3.png></img>
 <br><br>
 <a href=https://prezi.com/view/50Ptxgfn9dE4Pil3je0p/>Job Post Similarity</a><br>My part is Einführung, Word2Vec, Location + Type, Anwendung.<br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183373890-e1be4a6c-f71d-4f02-81f7-7dcf8ae5bf5d.png></img>
