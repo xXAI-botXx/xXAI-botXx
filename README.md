@@ -125,12 +125,20 @@ ___
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
 - learn with every project more :)
 
-<br>
+---
 
-In addition to that I bring other skills with me. Among other things, presentation skills. 
-...
+In addition to that I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
+Here I will share some of my prasentations with you. Feel free to watch a few of them :)
 
-@[prezi](https://prezi.com/1kkxdtlp4241/valentines-day/)
+<div align=center>
+<a href=https://prezi.com/view/KOqFTcdj01JzbzEXPm0j>Mean Shift</a><br>My part is the Mean Shift.<br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183371612-eb728349-f3ba-4864-8eca-3db3e180a208.png></img>
+<br><br>
+<a href=https://prezi.com/view/50Ptxgfn9dE4Pil3je0p/>Job Post Similarity</a><br>My part is Einführung, Word2Vec, Location + Type, Anwendung.<br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/183373890-e1be4a6c-f71d-4f02-81f7-7dcf8ae5bf5d.png></img>
+
+
+</div>
 
 <br>
 <br>
@@ -145,8 +153,8 @@ In addition to that I bring other skills with me. Among other things, presentati
 ---
 Here I learned the basics of a data scientist. Started with basic/overview of artificial intelligence, programming basics, informatics basics, mathematic and statistic basics, visual analysis basics and of course machine learning basics (+ softskills for business).
 <br><br><br>
-<img width="50%" src=https://user-images.githubusercontent.com/50902823/182451374-f8d51854-5b7a-4f9c-b37b-72449ed807e7.png></img>
-<img width="50%" src=https://user-images.githubusercontent.com/50902823/182451395-b03cca7e-a33e-41e6-9792-2c0681da6915.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/182451374-f8d51854-5b7a-4f9c-b37b-72449ed807e7.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/182451395-b03cca7e-a33e-41e6-9792-2c0681da6915.png></img>
 
 <br><br>
 
@@ -156,7 +164,7 @@ Here I learned the basics of a data scientist. Started with basic/overview of ar
 ---
 This online course on udemy has accompanied me through my studies until now. I learned a lot about machine learning and partly deepened my knowledge. Furthermore I could take a relativly deep look in advanced topic like Deep Learning, Reinforcement Learning and Computer Vision.
 <br><br><br>
-<img width="60%" src=https://user-images.githubusercontent.com/50902823/182477851-6da6f13a-e162-4792-9ead-179e7d1aaa3b.jpg></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/182477851-6da6f13a-e162-4792-9ead-179e7d1aaa3b.jpg></img>
 
 <br><br>
 *More are coming soon
