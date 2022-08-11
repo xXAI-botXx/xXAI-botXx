@@ -234,7 +234,8 @@ This online course on udemy has accompanied me through my studies until now. I l
 An extensive course with a lecturer who knows his subject well and has experience in passing on his knowledge. The Course starts with the basic of reinforcement learning: basic liberaries, basics of artificial neural networks and CNN for working with images as input only.<br>
 We continued with the theory of reinforcement learning. From here it got more and more specific. So Q-Learning was looked at and then Deep-Q-Learning.<br>
 During this time I was able to get to know the openai gym library and at the end I learned to create and register my own environment on gym.<br>
-Content:<br>
+<br>
+Content:<br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/184155372-abcfe2ca-23bc-47ca-8f68-5c3d62464a28.png></img>
 <br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/184155199-f9c6a8e6-1718-480c-8c21-c25233d4c57b.jpg></img>
