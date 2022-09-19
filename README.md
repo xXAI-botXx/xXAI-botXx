@@ -595,9 +595,8 @@ Click on a icon to follow the link. By Discord and Slowly the icon have a toolti
 [<img style="margin:15px" alt="xXAI-BotXx | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](https://discord.com/ "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Slowly" width="50px" src="https://user-images.githubusercontent.com/50902823/191066343-e646e0df-177b-460a-9b54-df2e22029d54.svg">](https://web.slowly.app/home "Slowly ID: 95EDDK")
+[<img style="margin:15px" alt="xXAI-BotXx | Slowly" width="50px" src="https://user-images.githubusercontent.com/50902823/191069497-e167047c-a4ef-4d19-8d68-4a52f90af414.svg">](https://web.slowly.app/home "Slowly ID: 95EDDK")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 </div>
 
