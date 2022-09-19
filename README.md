@@ -583,17 +583,20 @@ ___
 
 <br><br>
 
-Click on a icon to follow the link. By Discord and Slowly the icon have a tooltip and a link to the main site, so hover the icon and stay there for a second to see my data.
+I hope you liked my profile and maybe you want to connect with me :)<br>
+Every Icon stands for a different platform and a click on it leads you to their website. In addition to that, every icon has a tooltip with my username in it -> so hover the icon and stay there for a second to see my data.
+<br><br>
+By the way, my insider tip among social media is Slowly. 
 
 <br><br><br>
 
 <div align="center">
 
-[<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Star_Guardian73)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Star_Guardian73 "Star_Guardian73")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tobia-ippolito-437174182/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img style="margin:15px" alt="xXAI-BotXx | Flickr" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg">](https://www.flickr.com/photos/187005571@N07/ "Tobia Ippolito")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](https://discord.com/ "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="xXAI-BotXx | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx) 
+[<img style="margin:15px" alt="xXAI-BotXx | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx "xXAIbotXx") 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | Slowly" width="50px" src="https://user-images.githubusercontent.com/50902823/191069497-e167047c-a4ef-4d19-8d68-4a52f90af414.svg">](https://web.slowly.app/home "Slowly ID: 95EDDK")
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
