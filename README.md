@@ -567,7 +567,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/xXAI-botXx/xXAI-botXx/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/09/2022 18:25:11 UTC
+ Last Updated on 29/09/2022 01:19:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- see here: https://github.com/anmol098/waka-readme-stats-->
