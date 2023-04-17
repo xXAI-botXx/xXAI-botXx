@@ -1,31 +1,10 @@
-<a name="top"></a>
-<!--
-<h1 align="center">Navigation</h1>
-<br><br>
-
 <div align="center">
 
-[<img style="margin:15px" alt="Introduction" src="./res/banner/icon_introduction.png">](#Introduction)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="My Skills" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="My Work" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Visual Impression" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Showroom" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Stats" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Connect with me" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+[![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
+    
 </div>
 
-
-<!--
-<div style="float:left;text-align:center;">
-    <a href="#Connect-with-me"><img width="50px" style="margin:15px" src="./res/banner/icon_connect.png"></img></a>
-    <div class="caption">Connect with me</div>  
-</div>
--- >
-
-<br><br>
-___
--->
+<a name="top"></a>
 
 
 <!--### Nice to meet you!-->
@@ -75,7 +54,7 @@ Until then I will learn with online courses.
 So...Enjoy my profile! 😄
 
 <div align=center>
-    
+
 [<img width="30%" src="./res/collection/python_lair.gif">](# "Ssss 3.14159265359")
 
 </div>
@@ -134,10 +113,10 @@ In addition to that I bring other skills with me. Among other things, presentati
 Here I will share some of my prasentations with you. Feel free to watch a few of them :)
 
 <div align=center>
-    
+
 ---
 <h3><a href=https://prezi.com/view/KOqFTcdj01JzbzEXPm0j>Mean Shift</a></h3>
-    
+
 ---
 My part is the Mean Shift.
 <br><br><br>
@@ -148,7 +127,7 @@ My part is the Mean Shift.
 
 ---
 <h3><a href=https://prezi.com/view/50Ptxgfn9dE4Pil3je0p/>Job Post Similarity</a></h3>
-    
+
 ---
 My part is Einführung, Word2Vec, Location + Type, Anwendung.
 <br><br><br>
@@ -160,7 +139,7 @@ My part is Einführung, Word2Vec, Location + Type, Anwendung.
 
 ---
 <h3><a href=https://prezi.com/view/7mU4Cw0tUzXC6Ljgf36I>Projekt 1: Automation</a></h3>
-    
+
 ---
 My part is the full presentation.
 <br><br><br>
@@ -171,7 +150,7 @@ My part is the full presentation.
 
 ---
 <h3><a href=https://prezi.com/view/KPaFuUE4Su0TQ6gRGPue/>JVM</a></h3>
-    
+
 ---
 My part is the full presentation.
 <br><br><br>
@@ -183,7 +162,7 @@ My part is the full presentation.
 
 ---
 <h3><a href=https://prezi.com/view/GumafVI493iUUlJIZCTT/>Web Agentur</a></h3>
-    
+
 ---
 My part is 'Unser Unternehmen', 'Projekt', 'Projektstrukturplan', 'Ganttbalkendiagramm', 'Netzwerk an Kommunikationspartnern' and 'Herausforderungen'.
 <br><br><br>
@@ -208,7 +187,7 @@ And there are more :)
 
 ---
 <h3>Certification for the first part of the Bachelor of Science in Artifical Intelligence</h3>
-    
+
 ---
 Here I learned the basics of a data scientist. Started with basic/overview of artificial intelligence, programming basics, informatics basics, mathematic and statistic basics, visual analysis basics and of course machine learning basics (+ softskills for business).
 <br><br><br>
@@ -219,7 +198,7 @@ Here I learned the basics of a data scientist. Started with basic/overview of ar
 
 ---
 <h3>Machine Learning Course on Udemy</h3>
-    
+
 ---
 This online course on udemy has accompanied me through my studies until now. I learned a lot about machine learning and partly deepened my knowledge. Furthermore I could take a relativly deep look in advanced topic like Deep Learning, Reinforcement Learning and Computer Vision.
 <br><br><br>
@@ -229,7 +208,7 @@ This online course on udemy has accompanied me through my studies until now. I l
 
 ---
 <h3>Reinforcement Learning Course on Udemy</h3>
-    
+
 ---
 An extensive course with a lecturer who knows his subject well and has experience in passing on his knowledge. The Course starts with the basic of reinforcement learning: basic liberaries, basics of artificial neural networks and CNN for working with images as input only.<br>
 We continued with the theory of reinforcement learning. From here it got more and more specific. So Q-Learning was looked at and then Deep-Q-Learning.<br>
@@ -354,6 +333,7 @@ ___
 <br><br><br>
 
 Here i will provide some pictures and videos. I think it's interesting to see something :)
+
 <br><br>
 
 ---
