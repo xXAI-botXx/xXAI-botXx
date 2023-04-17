@@ -1,37 +1,10 @@
-<center>
-    <video controls>
-      <source src="./res/videos/outro_v1.mp4" type="video/mp4">
-    </video>
-</center>
-<a name="top"></a>
-<!--
-
-<h1 align="center">Navigation</h1>
-<br><br>
-
 <div align="center">
-
-[<img style="margin:15px" alt="Introduction" src="./res/banner/icon_introduction.png">](#Introduction)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="My Skills" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="My Work" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Visual Impression" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Showroom" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Stats" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Connect with me" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+    
+[![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
+    
 </div>
 
-
-<!--
-<div style="float:left;text-align:center;">
-    <a href="#Connect-with-me"><img width="50px" style="margin:15px" src="./res/banner/icon_connect.png"></img></a>
-    <div class="caption">Connect with me</div>  
-</div>
--- >
-
-<br><br>
-___
--->
+<a name="top"></a>
 
 
 <!--### Nice to meet you!-->
@@ -260,11 +233,11 @@ ___
 
 <br><br>
 
-<center>
-    <video controls>
-      <source src="./res/videos/intro_v2.mp4" type="video/mp4">
-    </video>
-</center>
+
+<video controls>
+  <source src="./res/videos/intro_v2.mp4" type="video/mp4">
+</video>
+
 
 I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
 To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
@@ -365,11 +338,9 @@ ___
 
 Here i will provide some pictures and videos. I think it's interesting to see something :)
 
-<center>
-    <video controls>
-      <source src="./res/videos/intro_v1.mp4" type="video/mp4">
-    </video>
-</center>
+<video controls>
+  <source src="./res/videos/intro_v1.mp4" type="video/mp4">
+</video>
 
 <br><br>
 
@@ -622,11 +593,9 @@ By the way, my insider tip among social media is Slowly.
 
 
 
-<center>
-    <video controls>
-      <source src="./res/videos/outro_v2.mp4" type="video/mp4">
-    </video>
-</center>
+<video controls>
+  <source src="./res/videos/outro_v2.mp4" type="video/mp4">
+</video>
 
 
 <br><br>
