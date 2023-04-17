@@ -235,6 +235,12 @@ ___
 
 <br><br>
 
+<div align="center">
+    
+[![Awesome Intro](https://img.youtube.com/vi/5GdyDu5R9Sg/maxresdefault.jpg)](https://youtu.be/5GdyDu5R9Sg)
+    
+</div>
+
 I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
 To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
 
@@ -333,6 +339,12 @@ ___
 <br><br><br>
 
 Here i will provide some pictures and videos. I think it's interesting to see something :)
+
+<div align="center">
+    
+[![Awesome Intro](https://img.youtube.com/vi/CCux_wlTmgo/maxresdefault.jpg)](https://youtu.be/CCux_wlTmgo)
+    
+</div>
 
 <br><br>
 
@@ -589,3 +601,11 @@ ___
 
 Special thanks to [Elisa Wilkes](https://www.linkedin.com/in/elisa-wilkes-4691a9198) for the creation of the illustrations
 ___
+
+<br><br>
+
+<div align="center">
+    
+[![Awesome Intro](https://img.youtube.com/vi/vWRgtlACfYw/maxresdefault.jpg)](https://youtu.be/vWRgtlACfYw)
+    
+</div>
