@@ -82,12 +82,9 @@ ___
   - Numpy
   - Pandas
   - Sklearn
-  - Matplotlib
-  - Seaborn
-  - Plotly
+  - Matplotlib/Seaborn
   - Tensorflow/Keras
   - PyTorch 
-- Power BI (Data Visualization + Wrangling/Preparation)
 - Data Science Knowledge
   - Pipeline & basics
   - Data Preparation & Extraction
@@ -96,10 +93,10 @@ ___
   - Deep Learning
   - Mathematical and statistical fundamentals for DS
 - KNIME
+- Power BI 
 - SQL
+- Git
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) (beginner)
-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) (beginner)
 - learn with every project more :)
 
 <br>
@@ -111,6 +108,15 @@ In addition to that I bring other skills with me. Among other things, presentati
 Here I will share some of my prasentations with you. Feel free to watch a few of them :)
 
 <div align=center>
+
+---
+<h3><a href=https://prezi.com/view/vh7gksgU4j08iUtKECqT/>GPT-3</a></h3>
+
+---
+My part is the Mean Shift.
+<br><br><br>
+
+<br><br>
 
 ---
 <h3><a href=https://prezi.com/view/KOqFTcdj01JzbzEXPm0j>Mean Shift</a></h3>
