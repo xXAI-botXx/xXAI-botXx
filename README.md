@@ -113,8 +113,13 @@ Here I will share some of my prasentations with you. Feel free to watch a few of
 <h3><a href=https://prezi.com/view/vh7gksgU4j08iUtKECqT/>GPT-3</a></h3>
 
 ---
-My part is the Mean Shift.
+A presentation about the GPT-3 Paper.
 <br><br><br>
+<img width="750" alt="Screenshot 2023-12-17 125230" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/500655e0-6419-46f5-8620-2a01a10d6149"></img>
+<img width="750" alt="Screenshot 2023-12-17 124827" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/40fc046a-16e9-4395-9a72-3d17e88441b9"></img>
+<img width="750" alt="Screenshot 2023-12-17 124941" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/92b305a0-04cd-43b7-819b-aa088c27faee"></img>
+<img width="750" alt="Screenshot 2023-12-17 125008" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/6665c1dc-764b-4d28-9421-0b8e521f0da4"></img>
+<img width="750" alt="Screenshot 2023-12-17 125044" src="https://github.com/xXAI-botXx/xXAI-botXx/assets/50902823/30dbffcd-8d1f-4503-9cb9-455d4276ad9d"></img>
 
 <br><br>
 
