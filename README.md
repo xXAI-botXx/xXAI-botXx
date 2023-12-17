@@ -46,11 +46,6 @@ Away from the zeros and ones I like to be in nature and have found a passion in 
 I also like reading and listening to books. It ranges from fantasy to specialist books. If I had to choose a genre it would probably be fantasy (or sometimes science fiction). But definitely not crime or thriller.
 <br>
 <br>
-Current state:<br>
-I have successfully completed my practical semester at [Markant](https://www.markant.com/de/).<br>
-Now I'm in the 6th semester of 7.
-<br>
-<br>
 
 > If you asked yourself why xXAI-botXx than read it backwards but🤫
 <br>
@@ -239,7 +234,7 @@ ___
 <br><br>
 
 <div align="center">
-    
+
 [![Awesome Intro](https://img.youtube.com/vi/5GdyDu5R9Sg/maxresdefault.jpg)](https://youtu.be/5GdyDu5R9Sg)
     
 </div>
@@ -344,7 +339,7 @@ ___
 Here i will provide some pictures and videos. I think it's interesting to see something :)
 
 <div align="center">
-    
+
 [![Awesome Intro](https://img.youtube.com/vi/CCux_wlTmgo/maxresdefault.jpg)](https://youtu.be/CCux_wlTmgo)
     
 </div>
@@ -608,7 +603,7 @@ ___
 <br><br>
 
 <div align="center">
-    
+
 [![Awesome Intro](https://img.youtube.com/vi/vWRgtlACfYw/maxresdefault.jpg)](https://youtu.be/vWRgtlACfYw)
     
 </div>
