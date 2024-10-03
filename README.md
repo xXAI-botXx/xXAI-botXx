@@ -65,7 +65,11 @@ ___
 <a name="My-Skills"></a>
 [<img align="center" src="./res/banner/banner_my_skills.png"></img>](#top)
 
-<br><br>
+<br><br> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=comfortable-yolact&theme=aura_dark)](https://github.com/xXAI-botXx/comfortable-yolact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=3xM&theme=aura_dark)](https://github.com/xXAI-botXx/3xM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Genetic-Algorithm&theme=aura_dark)](https://github.com/xXAI-botXx/Genetic-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Calm-down-bot&theme=aura_dark)](https://github.com/xXAI-botXx/Calm-down-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/Job-Posts-Similarity)
 <br><br><br>
