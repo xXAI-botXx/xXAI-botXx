@@ -259,6 +259,14 @@ To simplify that, i listed my repositories by category and with some words to cl
 
 **Data Science Projects**
 
+- [Comfortable Yolact](https://github.com/xXAI-botXx/comfortable-yolact)<br>
+  This is a YOLACT Wrapper, with easy installation and easy training and easy inference. There is also an installation notebook, to check your installation and also show you the architecture as well as  the exact input and output of the YOLACT Model. This repo fixes the config file based approach to make YOLACT usable in python code like in notebooks. There is a notebook for training and one for inference.
+- [3xM](https://github.com/xXAI-botXx/3xM)<br>
+  The triple M dataset is a syntethic computer vision dataset for instance-segmentation for bin-picking using Unreal Engine 5. Specially created to control the amount of 3D-Models and Materials during the datageneration process. I created multiple datasets each with 20.000 automatically labelled images for my bachelor exam.
+- [Genetic Algorithm](https://github.com/xXAI-botXx/Genetic-Algorithm)<br>
+  Hyperparamater-Optimization from Deep-Learning and Machine Learning Models with Gentic Algorithm. A [PyPi project](https://pypi.org/project/Simple-Genetic-Algorithm/) and also can used for any other usage. The documentation should be self-explaining with examples.
+- [Calm Down Bot](https://github.com/xXAI-botXx/Calm-down-bot?tab=readme-ov-file#fine-tuning)<br>
+  A GPT-2 based Chat-bot for mental distress. Trained on ChatGPT-3 generated Chatlogs.
 - [Wer hat gebohrt?](https://github.com/xXAI-botXx/Wer-hat-gebohrt)<br>
   In this project, an application was programmed that collects drilling data using a GUI and then tries to assign a driller to one of two people using ML algorithms. The 2 people had to create training data beforehand. Voltage, audio and current data are available.<br>
   This project is quite extensive and so I wrote my own API documentation for it. [Click here to see it](https://xxai-botxx.github.io/Wer-hat-gebohrt/) (I love it😍).<br>
@@ -266,9 +274,6 @@ To simplify that, i listed my repositories by category and with some words to cl
 - [Job Posts Similarity](https://github.com/xXAI-botXx/Job-Posts-Similarity)<br>
   The task here is to find similar job posts using NLP. I used SpaCy for this task and this project was made in coorperation with Syon Kadkade.<br>
   Important part of this project was to analyse the problem and find a solution. Above all, I did very scientific work here.
-- [Weather Analysis](https://github.com/xXAI-botXx/Weather-Analysis)<br>
-  This project has the goal to visualize, explore and forcasting weather data. It's not finished yet and I started to load and wrangling weather data buyed from OpenWeatherMap for freiburg.<br>
-  Visualization is done by using plotly. The forecasting should done by using PyTorch.
 - [Weather Collection](https://github.com/xXAI-botXx/Weather-Collection)<br>
   This is a helper project for the Weather Analysis (before i saw that it doesn't work at all). It's about collecting data from a website over a period of time. Like every hour. For that I used Silenium Lib. And it works...partly. Unfortunaly the data collection regularly take a break for a few days...maybe thats a problem from replit where i run the code.<br>
   Today I would use other liberaies instead such as request-lib with BeatifulSoup-lib for collecting the data.
@@ -280,9 +285,9 @@ To simplify that, i listed my repositories by category and with some words to cl
 **Other Python Projects**
 - [QR-Code Creator](https://github.com/xXAI-botXx/QR-Code-Creator)<br>
   This repo contains an generator for QR-COdes developed for Replit.
-- [Discord Bot](https://github.com/xXAI-botXx/Discord-Bot) -> not visible yet, but soon :)<br>
-  It's about a alrounder Bot for discord. The bot offers a wide range of skills and is the perfect chat-assistent.<br>
-  I invested a lot of time and the code is nowadays partwise a bit messy. But I love the bot. It can draw function, calculate calculations, flip a coin, play chess, play YouTube Videos as MP3 and much more!
+- [Discord Bot](https://github.com/xXAI-botXx/Discord-Bot)<br>
+  It's about an allrounder Bot for discord. The bot offers a wide range of skills and is the perfect chat-assistent.<br>
+  I invested a lot of time and the code is nowadays partwise a bit messy. But I love the bot. It can draw function, calculate calculations, flip a coin, play chess, play YouTube Videos as MP3 and much more! My favourite game is 4-wins which the bot also can do.
 - [Python Lair](https://github.com/xXAI-botXx/Python_Lair)<br>
   Python Lair is a block based python IDE programmed in python. It is a project for fun. I used PyQt for the GUI.
 - [Chess](https://github.com/xXAI-botXx/Chess)<br>
@@ -294,7 +299,9 @@ To simplify that, i listed my repositories by category and with some words to cl
   On one side you can show and handle with AST's, these are a part of the python execution. The python code going to represent as tree and thats can be useful. The math-console brings that on the point.<br>
   Moreover you can see the C-byte-instructions of the code to improve the performance of your code.
 - [Website Publisher](https://github.com/xXAI-botXx/Rainbow_Six_Website)<br>
-  In this project I wrote a server-application for an old website of me over a game. I used flask to run the website locally.
+  In this project I wrote a server-application for an old website from me about a game. I used flask to run the website locally.
+- [Chat Analysis](https://github.com/xXAI-botXx/Chat-Analysis)
+  A chat analyzsis between me and my girlfriend. I created a super cool website.
 
 
 <br>
@@ -318,10 +325,26 @@ To simplify that, i listed my repositories by category and with some words to cl
 <br>
 
 **Other Repositories**
+- [The Cave Code](https://github.com/xXAI-botXx/cave_code)
+  This Project is a ambitious project to find the slution for every problem. It is an unrealistic project and right now it is just an idea. I still have to figure out how I can use AI to achieve the goal. Right now there is no code, just my ideas and my plan.
+
+<br>
+
+**Helper Repositories**
 - [Project Helper](https://github.com/xXAI-botXx/Project-Helper)<br>
   This repo should include important files which help me out. As example a guide for git.<br>
   It should grows over the time and should contain basic code as cook-recipes and guides to important topics.<br>
   Maybe you find something helpful, too.
+- [Pythonic X-Ray](https://github.com/xXAI-botXx/Pythonic-X-ray)<br>
+  Easily get interesting code insights to your work.
+- [Computer Vision Helper](https://github.com/xXAI-botXx/computer-vision)<br>
+  This Project contains many basic and important operations with the opencv library. If you have a image project and need to remember how to do something then you maybe find it in this project. The deep learning section is very small and can be most likely ignored.
+- [PyTorch](https://github.com/xXAI-botXx/PyTorch-Reference)<br>
+  This is not my repository, but it is really helpful.
+- [Julia](https://github.com/xXAI-botXx/Julia)<br>
+  Basics from the awesome language Julia. (Will be added soon)
+- [C++](https://github.com/xXAI-botXx/CPP)<br>
+  Basics of C++ language.
 
 <!-- Maybe add some pictures and videos directly here ? -->
 <!-- Add README's to each repo and add pictures and videos for them -->
