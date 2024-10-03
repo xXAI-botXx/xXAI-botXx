@@ -265,7 +265,7 @@ To simplify that, i listed my repositories by category and with some words to cl
   The triple M dataset is a syntethic computer vision dataset for instance-segmentation for bin-picking using Unreal Engine 5. Specially created to control the amount of 3D-Models and Materials during the datageneration process. I created multiple datasets each with 20.000 automatically labelled images for my bachelor exam.
 - [Genetic Algorithm](https://github.com/xXAI-botXx/Genetic-Algorithm)<br>
   Hyperparamater-Optimization from Deep-Learning and Machine Learning Models with Gentic Algorithm. A [PyPi project](https://pypi.org/project/Simple-Genetic-Algorithm/) and also can used for any other usage. The documentation should be self-explaining with examples.
-- [Calm Down Bot](https://github.com/xXAI-botXx/Calm-down-bot?tab=readme-ov-file#fine-tuning)<br>
+- [Calm Down Bot](https://github.com/xXAI-botXx/Calm-down-bot)<br>
   A GPT-2 based Chat-bot for mental distress. Trained on ChatGPT-3 generated Chatlogs.
 - [Wer hat gebohrt?](https://github.com/xXAI-botXx/Wer-hat-gebohrt)<br>
   In this project, an application was programmed that collects drilling data using a GUI and then tries to assign a driller to one of two people using ML algorithms. The 2 people had to create training data beforehand. Voltage, audio and current data are available.<br>
