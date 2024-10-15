@@ -339,6 +339,8 @@ To simplify that, i listed my repositories by category and with some words to cl
   Easily get interesting code insights to your work.
 - [Computer Vision Helper](https://github.com/xXAI-botXx/computer-vision)<br>
   This Project contains many basic and important operations with the opencv library. If you have a image project and need to remember how to do something then you maybe find it in this project. The deep learning section is very small and can be most likely ignored.
+- [Mouse-Keyboard-Activity](https://github.com/xXAI-botXx/Mouse-Keyboard-Activity)<br>
+  Presses a given button every X minutes on a given position on your display and can move the mouse random.
 - [PyTorch](https://github.com/xXAI-botXx/PyTorch-Reference)<br>
   This is not my repository, but it is really helpful.
 - [Julia](https://github.com/xXAI-botXx/Julia)<br>
