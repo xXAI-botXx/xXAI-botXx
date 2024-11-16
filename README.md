@@ -1,6 +1,9 @@
 <div align="center">
 
 [![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
+
+![wordcloud-info](https://github.com/user-attachments/assets/7f1fa1ef-870d-4b70-b76e-e91d63dfbe3a)
+
     
 </div>
 
