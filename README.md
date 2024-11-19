@@ -152,16 +152,6 @@ My part is the full presentation.
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183383221-6065976a-88b2-4f6a-8100-9c0b5b3a463a.png></img>
 <br><br>
 
----
-<h3><a href=https://prezi.com/view/GumafVI493iUUlJIZCTT/>Web Agentur</a></h3>
-
----
-My part is 'Unser Unternehmen', 'Projekt', 'Projektstrukturplan', 'Ganttbalkendiagramm', 'Netzwerk an Kommunikationspartnern' and 'Herausforderungen'.
-<br><br><br>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183377561-9df7243d-5748-43de-a6ec-c53435920bd6.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183378871-69672d6d-4e24-4375-a930-51aec1710416.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183379133-a6adcfc2-92f7-4238-ab7e-2c75c4b8d502.png></img>
-
 
 
 <br><br>
@@ -211,8 +201,6 @@ Content:<br><br>
 <br><br><br>
 <img width=750 src=https://user-images.githubusercontent.com/50902823/184155199-f9c6a8e6-1718-480c-8c21-c25233d4c57b.jpg></img>
 
-<br><br>
-*More are coming soon
 
 </div>
 
