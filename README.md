@@ -2,8 +2,6 @@
 
 [![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
 
-![wordcloud-info](https://github.com/user-attachments/assets/7f1fa1ef-870d-4b70-b76e-e91d63dfbe3a)
-
     
 </div>
 
@@ -68,43 +66,21 @@ ___
 <a name="My-Skills"></a>
 [<img align="center" src="./res/banner/banner_my_skills.png"></img>](#top)
 
+
 <br><br> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=comfortable-yolact&theme=aura_dark)](https://github.com/xXAI-botXx/comfortable-yolact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=3xM&theme=aura_dark)](https://github.com/xXAI-botXx/3xM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Genetic-Algorithm&theme=aura_dark)](https://github.com/xXAI-botXx/Genetic-Algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Calm-down-bot&theme=aura_dark)](https://github.com/xXAI-botXx/Calm-down-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/Job-Posts-Similarity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/torch-mask-rcnn-instance-segmentation)
 <br><br><br>
 <br>
 
-<!--
-<img src="res/main_word_cloud_fancy.png" align="right"></img>
--->
+![Untitled(2)](https://github.com/user-attachments/assets/25d4de74-32c6-4adc-9c02-4304f10c5157)
 
-## Overview
-(just about)
 
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  - Numpy
-  - Pandas
-  - Sklearn
-  - Matplotlib/Seaborn
-  - Tensorflow/Keras
-  - PyTorch 
-- Data Science Knowledge
-  - Pipeline & basics
-  - Data Preparation & Extraction
-  - Data Engineering
-  - Machine Learning
-  - Deep Learning
-  - Mathematical and statistical fundamentals for DS
-- KNIME
-- Power BI 
-- SQL
-- Git
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- learn with every project more :)
+
 
 <br>
 <br>
