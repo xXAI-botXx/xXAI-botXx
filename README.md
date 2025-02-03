@@ -39,7 +39,7 @@
 
 <br><br>
 
-Hey, I’m Tobia, also known as xXAI-botXx! I’m an AI Engineer, building on my background as my studies in Artificial Intelligence at Offenburg University in Germany (Bachelor of Science and currently Master of Science). My journey into tech began with Java, where I created 2D games like a low-budget Bomberman and an own game called Falling Champion. While I fulfilled my dream of making games, I discovered a new passion in the world of data and artificial intelligence, which has since become my career focus.
+Hey, I’m Tobia, also known as xXAI-botXx! I’m an AI Engineer, leveraging my experience and studies in Artificial Intelligence at Offenburg University in Germany (Bachelor of Science and currently pursuing a Master of Science).. My journey into tech began with Java, where I created 2D games like a low-budget Bomberman and an own game called Falling Champion. While I fulfilled my dream of making games, I discovered a new passion in the world of data and artificial intelligence, which has since become my career focus.
 
 As an AI Engineer, I’ve worked on diverse projects in reinforcement learning, computer vision, forecasting, and more. What I love most about AI is its versatility—there’s always something new to explore and learn. My strengths lie in my motivation to tackle challenging tasks, my commitment to continuous learning, and my emphasis on thorough documentation. You can check out my projects and contributions on my Repos here. Feel free to reach out—I’m always open to connecting!
 
