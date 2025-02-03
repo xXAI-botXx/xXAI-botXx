@@ -2,8 +2,12 @@
 
 [![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
 
-    
+<!-- <h2>Data Science | Data Analysis | Machine Learning</h2> -->
+<h2>Deep Learning | Computer Vision | Generative AI</h2>
+
 </div>
+
+
 
 <br>
 <br>
@@ -27,7 +31,6 @@
 
 [<img style="margin:15px" OnMouseOver="this.style.width='170px'" OnMouseOut="this.style.width='100px'" alt="My Skills" width="100px" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="My Work" width="100px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="Visual Impression" width="100px" src="./res/banner/icon_visual_impression.png">](#Visual-Impression)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Showroom" width="100px" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Stats" width="100px" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Connect with me" width="100px" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,21 +39,15 @@
 
 <br><br>
 
-I'm Tobia or xXAI-botXx here. Aspiring data scientist and currently studying [artificial intelligence](https://www.hs-offenburg.de/studium/studiengaenge/bachelor/angewandte-kuenstliche-intelligenz/studieninteressierte) in germany.<br>
-I started with Java and wanted to make games. After some 2D Games such like my 2D (low Budget) Bomberman or my Falling Champion I had enough of games and my dream was fulfilled in a certain way...<br>
-This gap was and still is filled with the world of data and artificial intelligence.<br>
-I love to make projects and online courses in this field and learn more and more about it. And there is currently no end to the learning process in sight. There are so many interesting areas and areas of application, it's so marvelous.<br>
-At this point I can't choose a specific area which I will focus on. I would like to gain more experience and knowledge before i make a decision here.
-<br>
-<br>
-Away from the zeros and ones I like to be in nature and have found a passion in photography (although i still have a lot to learn here, but that doesn't matter for the fun).<br>
-I also like reading and listening to books. It ranges from fantasy to specialist books. If I had to choose a genre it would probably be fantasy (or sometimes science fiction). But definitely not crime or thriller.
-<br>
-<br>
+Hey, I’m Tobia, also known as xXAI-botXx! I’m an AI Engineer, building on my background as my studies in Artificial Intelligence at Offenburg University in Germany (Bachelor of Science and currently Master of Science). My journey into tech began with Java, where I created 2D games like a low-budget Bomberman and an own game called Falling Champion. While I fulfilled my dream of making games, I discovered a new passion in the world of data and artificial intelligence, which has since become my career focus.
 
-> If you asked yourself why xXAI-botXx than read it backwards but🤫
-<br>
-So...Enjoy my profile! 😄
+As an AI Engineer, I’ve worked on diverse projects in reinforcement learning, computer vision, forecasting, and more. What I love most about AI is its versatility—there’s always something new to explore and learn. My strengths lie in my motivation to tackle challenging tasks, my commitment to continuous learning, and my emphasis on thorough documentation. You can check out my projects and contributions on my Repos here. Feel free to reach out—I’m always open to connecting!
+
+When I’m not immersed in the world of zeros and ones, I enjoy spending time in nature and pursuing my passion for photography (though I still have a lot to learn). I’m also an avid reader and listener of books, with a preference for fantasy and science fiction. Crime and thriller? Not so much.
+
+> P.S. If you’re wondering about the name "xXAI-botXx," try reading it backward—but 🤫!
+
+So, enjoy exploring my profile, and feel free to connect! 😄
 
 <div align=center>
 
@@ -68,19 +65,74 @@ ___
 
 
 <br><br> 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=comfortable-yolact&theme=aura_dark)](https://github.com/xXAI-botXx/comfortable-yolact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=torch-mask-rcnn-instance-segmentation&theme=aura_dark)](https://github.com/xXAI-botXx/torch-mask-rcnn-instance-segmentation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=3xM&theme=aura_dark)](https://github.com/xXAI-botXx/3xM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Genetic-Algorithm&theme=aura_dark)](https://github.com/xXAI-botXx/Genetic-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=comfortable-yolact&theme=aura_dark)](https://github.com/xXAI-botXx/comfortable-yolact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Calm-down-bot&theme=aura_dark)](https://github.com/xXAI-botXx/Calm-down-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Job-Posts-Similarity&theme=aura_dark)](https://github.com/xXAI-botXx/torch-mask-rcnn-instance-segmentation)
 <br><br><br>
 <br>
 
-![Untitled(2)](https://github.com/user-attachments/assets/25d4de74-32c6-4adc-9c02-4304f10c5157)
+<!-- ![Untitled(2)](https://github.com/user-attachments/assets/25d4de74-32c6-4adc-9c02-4304f10c5157) -->
 
 
 
+## My Exam Work for my Bachelor of Science:
+
+<a href="https://1drv.ms/b/s!AqSTBkFULemxmJgnJLD-nk2EkOn5dA?e=8EEuwZ">
+<div>
+    
+![bachelor-exam](https://github.com/user-attachments/assets/99112e7a-0b29-449b-85a0-053adc1543e5)
+</div>
+</a>
+Grade: 1,7<br>
+<a href="https://1drv.ms/b/s!AqSTBkFULemxmJgnJLD-nk2EkOn5dA?e=8EEuwZ">Click me and read me 🚀</a>
+
+
+<br>
+<br>
+
+## Certifications
+
+<div align=center>
+
+---
+<h3>Certification for the first part of the Bachelor of Science in Artifical Intelligence</h3>
+
+---
+Here I learned the basics of a data scientist. Started with basic/overview of artificial intelligence, programming basics, informatics basics, mathematic and statistic basics, visual analysis basics and of course machine learning basics (+ softskills for business).
+<br><br><br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/182451374-f8d51854-5b7a-4f9c-b37b-72449ed807e7.png></img>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/182451395-b03cca7e-a33e-41e6-9792-2c0681da6915.png></img>
+
+<br><br>
+
+---
+<h3>Machine Learning Course on Udemy</h3>
+
+---
+This online course on udemy has accompanied me through my studies until now. I learned a lot about machine learning and partly deepened my knowledge. Furthermore I could take a relativly deep look in advanced topic like Deep Learning, Reinforcement Learning and Computer Vision.
+<br><br><br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/182477851-6da6f13a-e162-4792-9ead-179e7d1aaa3b.jpg></img>
+
+<br><br>
+
+---
+<h3>Reinforcement Learning Course on Udemy</h3>
+
+---
+An extensive course with a lecturer who knows his subject well and has experience in passing on his knowledge. The Course starts with the basic of reinforcement learning: basic liberaries, basics of artificial neural networks and CNN for working with images as input only.<br>
+We continued with the theory of reinforcement learning. From here it got more and more specific. So Q-Learning was looked at and then Deep-Q-Learning.<br>
+During this time I was able to get to know the openai gym library and at the end I learned to create and register my own environment on gym.<br>
+<br>
+Content:<br><br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/184155372-abcfe2ca-23bc-47ca-8f68-5c3d62464a28.png></img>
+<br><br><br>
+<img width=750 src=https://user-images.githubusercontent.com/50902823/184155199-f9c6a8e6-1718-480c-8c21-c25233d4c57b.jpg></img>
+
+
+</div>
 
 <br>
 <br>
@@ -155,7 +207,7 @@ My part is the full presentation.
 
 
 <br><br>
-And there are more :)
+And there are more 🥳
 
 
 </div>
@@ -163,46 +215,7 @@ And there are more :)
 <br>
 <br>
 
-## Certifications
 
-<div align=center>
-
----
-<h3>Certification for the first part of the Bachelor of Science in Artifical Intelligence</h3>
-
----
-Here I learned the basics of a data scientist. Started with basic/overview of artificial intelligence, programming basics, informatics basics, mathematic and statistic basics, visual analysis basics and of course machine learning basics (+ softskills for business).
-<br><br><br>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/182451374-f8d51854-5b7a-4f9c-b37b-72449ed807e7.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/182451395-b03cca7e-a33e-41e6-9792-2c0681da6915.png></img>
-
-<br><br>
-
----
-<h3>Machine Learning Course on Udemy</h3>
-
----
-This online course on udemy has accompanied me through my studies until now. I learned a lot about machine learning and partly deepened my knowledge. Furthermore I could take a relativly deep look in advanced topic like Deep Learning, Reinforcement Learning and Computer Vision.
-<br><br><br>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/182477851-6da6f13a-e162-4792-9ead-179e7d1aaa3b.jpg></img>
-
-<br><br>
-
----
-<h3>Reinforcement Learning Course on Udemy</h3>
-
----
-An extensive course with a lecturer who knows his subject well and has experience in passing on his knowledge. The Course starts with the basic of reinforcement learning: basic liberaries, basics of artificial neural networks and CNN for working with images as input only.<br>
-We continued with the theory of reinforcement learning. From here it got more and more specific. So Q-Learning was looked at and then Deep-Q-Learning.<br>
-During this time I was able to get to know the openai gym library and at the end I learned to create and register my own environment on gym.<br>
-<br>
-Content:<br><br>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/184155372-abcfe2ca-23bc-47ca-8f68-5c3d62464a28.png></img>
-<br><br><br>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/184155199-f9c6a8e6-1718-480c-8c21-c25233d4c57b.jpg></img>
-
-
-</div>
 
 <!-- adding soft skills? -->
 
@@ -221,11 +234,16 @@ ___
     
 </div>
 
-I know, sometimes it can be difficult to get an overview of an account and thers projects from the outside. 
-To simplify that, i listed my repositories by category and with some words to classify it easier:<br>
+I know, sometimes it can be difficult to get an overview of an account and its projects from the outside. 
+To simplify that, I listed my repositories by category and with some words to classify it easier.
+
+> Hint: Some projects are too secret to show on github or were made without git.
+
 
 **Machine Learning Projects**
 
+- [Generative Deep Learning](https://github.com/xXAI-botXx/Generative-Deep-Learning)<br>
+  Summariezed knoledge about generative ai, which is a crucial part of machine learning / deep learning and responsible for many awesome AI abilities. This project includes theory and practise.
 - [Mask-RCNN for PyTorch Instance Segmentation](https://github.com/xXAI-botXx/torch-mask-rcnn-instance-segmentation)<br>
   I use the MASkRCNN from PyTorch to make a instance segmentation. Training Loop, Inference, Data Preparation, ...
 - [3xM](https://github.com/xXAI-botXx/3xM)<br>
@@ -236,6 +254,8 @@ To simplify that, i listed my repositories by category and with some words to cl
   Hyperparamater-Optimization from Deep-Learning and Machine Learning Models with Gentic Algorithm. A [PyPi project](https://pypi.org/project/Simple-Genetic-Algorithm/) and also can used for any other usage. The documentation should be self-explaining with examples.
 - [Calm Down Bot](https://github.com/xXAI-botXx/Calm-down-bot)<br>
   A GPT-2 based Chat-bot for mental distress. Trained on ChatGPT-3 generated Chatlogs.
+- [ANN-106](https://github.com/xXAI-botXx/ANN-106)<br>
+  An educational project, where i try to program my own deep learning library.
 - [Wer hat gebohrt?](https://github.com/xXAI-botXx/Wer-hat-gebohrt)<br>
   In this project, an application was programmed that collects drilling data using a GUI and then tries to assign a driller to one of two people using ML algorithms. The 2 people had to create training data beforehand. Voltage, audio and current data are available.<br>
   This project is quite extensive and so I wrote my own API documentation for it. [Click here to see it](https://xxai-botxx.github.io/Wer-hat-gebohrt/) (I love it😍).<br>
@@ -248,7 +268,7 @@ To simplify that, i listed my repositories by category and with some words to cl
   Today I would use other liberaies instead such as request-lib with BeatifulSoup-lib for collecting the data.
 - [YouTube Advertising Blocking Bot](https://github.com/xXAI-botXx/YouTube-Bot)<br>
   This is not supposed to be a real application and was not sufficiently developed for that. So don't use it for blocking advertising. It is a computer vision project to recognize objects in images. In this case a skip advertising-button recognition. It is developed for the german language and for my 2 monitors at home.
-- And more are planned :)
+- And more are planned 🥳🚀
 <br>
 
 **Other Python Projects**
@@ -278,24 +298,30 @@ To simplify that, i listed my repositories by category and with some words to cl
 **Java Repositories**
 - [Pi-Collision](https://github.com/xXAI-botXx/Pi_Collisions)<br>
   It's about an application for showing the pi-collision effect. It's a small application with a GUI and some physics in it. The Pi-Collision-effect is that if 2 objects collide and there is a wall, the amount of collisions going to be the number of pi. It's very interesting. To go higher with the amount of collisions I implemted a performance mode, where nothing is drawing and the collisions going faster.  
-  
 - [Falling Champion](https://github.com/xXAI-botXx/Falling-Champion)<br>
   Falling Champion is the title of my own created game. I used Java to make a really fun game. Special for my games are the credits. I think it is a nice game and it was particularly important to me that it is a well-rounded overall package.
-  
 - [2D Bomberman](https://github.com/xXAI-botXx/2D-Bomberman)<br>
   Another game heavily inspired of the original Bomberman. And there is an easter egg in the credits!
-  
 - [Hearts](https://github.com/xXAI-botXx/Hearts)<br>
   In this project I implemented the cardgame hearts in java with server programming. And there is a GUI.
-
 - [Interactive Text Adventure Reader](https://github.com/xXAI-botXx/Text-Adventure)<br>
   It should be an application for interactive stories and they should be written by the users it self too. Unfortunately i wasn't creative enough to write a nice story 😂
+- [Magic-Sovereign](https://github.com/xXAI-botXx/Magic-Sovereign)<br>
+  Probably my first own Java Game with pretty much no features 😂 I love this project neverless! I wanted to code a Pokemon clone.
+- [Super-Zeldario](https://github.com/xXAI-botXx/Super-Zeldario)<br>
+  One of my firsts coding projects with friends. We wanted to make a Zelda clone but did not come far.
 
 <br>
 
 **Other Repositories**
-- [The Cave Code](https://github.com/xXAI-botXx/cave_code)
+- [Bachelor-Exam](https://github.com/xXAI-botXx/Bachelor-Exam)<br>
+  Git project of my bachelor exam, including writing, planning, research and more.
+- [Master-Exam](https://github.com/xXAI-botXx/Master-Exam)<br>
+  Git project of my master exam, including writing, planning, research and more.
+- [The Cave Code](https://github.com/xXAI-botXx/cave_code)<br>
   This Project is a ambitious project to find the slution for every problem. It is an unrealistic project and right now it is just an idea. I still have to figure out how I can use AI to achieve the goal. Right now there is no code, just my ideas and my plan.
+- [Chinesisch](https://github.com/xXAI-botXx/Chinesisch)<br>
+  This project tries to collect knowledge about china. The language, the geography and mythology. No Coding in this project!
 
 <br>
 
@@ -303,30 +329,22 @@ To simplify that, i listed my repositories by category and with some words to cl
 - [Project Helper](https://github.com/xXAI-botXx/Project-Helper)<br>
   This repo should include important files which help me out. As example a guide for git.<br>
   It should grows over the time and should contain basic code as cook-recipes and guides to important topics.<br>
-  Maybe you find something helpful, too.
+  Maybe you find something helpful, too. It references to other "helper" repositories, which partwise are not listed here.
 - [Pythonic X-Ray](https://github.com/xXAI-botXx/Pythonic-X-ray)<br>
   Easily get interesting code insights to your work.
 - [Mouse-Keyboard-Activity](https://github.com/xXAI-botXx/Mouse-Keyboard-Activity)<br>
   Presses a given button every X minutes on a given position on your display and can move the mouse random.
+- [Computer Vision](https://github.com/xXAI-botXx/computer-vision)<br>
+  Contains some important and basic Computer Vision tasks with OpenCV. It's more like an helper project.
+- [Deep-Learning-for-Medical-Images](https://github.com/xXAI-botXx/Deep-Learning-for-Medical-Images)<br>
+   This repo covers some basics for deep learning in the field of medical images. There are also some easy basics about numpy and pytorch.
+
 
 <!-- Maybe add some pictures and videos directly here ? -->
 <!-- Add README's to each repo and add pictures and videos for them -->
 
 <br>
 That are my repositories (since the date 06.06.2022).
-
-<br><br>
-
-___
-<!--### Visual Impression-->
-<a name="Visual-Impression"></a>
-[<img align="center" src="./res/banner/banner_visual_impression.png"></img>](#top)
-
-<br><br><br>
-
-<img align="center" src="./res/collection/affinity/collection_01.png"></img>
-<img align="center" src="./res/collection/affinity/collection_02.png"></img>
-<img align="center" src="./res/collection/affinity/collection_03.png"></img>
 
 <br><br>
 
@@ -475,6 +493,24 @@ https://user-images.githubusercontent.com/50902823/172582920-1bbe8805-135a-4bd5-
 
 https://user-images.githubusercontent.com/50902823/172582564-b6596300-cd7e-4287-9da8-b273be31389b.mp4
 
+---
+<h3 align='center'>Magic-Sovereign</h3>
+
+---
+
+https://github.com/user-attachments/assets/93646c3a-5abc-4559-9a49-9a62e7c4d9db
+
+
+
+
+---
+<h3 align='center'>Super-Zeldario</h3>
+
+---
+
+https://github.com/user-attachments/assets/ac2ee6b7-60d4-4c6d-bf00-294eac79c29c
+
+
 
 <br> <br>
 
@@ -496,75 +532,13 @@ ___
 
 <br><br><br>
 
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xXAI-botXx&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXAI-botXx&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXAI-botXx&theme=aura_dark&layout=compact)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=xXAI-botXx&theme=aura_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
-<br><br>
-<!--
-<img width=75% src=https://wakatime.com/share/@xXAI_botXx/0cc84a2c-2c6c-43b8-9f86-e0a85169586d.png target=https://wakatime.com/></img>
-
-<br><br>-->
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 314 Contributions in the Year 2022
- > 
-> 📦 1.8 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    129 commits    ███████░░░░░░░░░░░░░░░░░░   30.57% 
-🌆 Daytime    162 commits    █████████░░░░░░░░░░░░░░░░   38.39% 
-🌃 Evening    100 commits    ██████░░░░░░░░░░░░░░░░░░░   23.7% 
-🌙 Night      31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       72 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Tuesday      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
-Wednesday    100 commits    ██████░░░░░░░░░░░░░░░░░░░   23.7% 
-Thursday     71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-Sunday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
-
-```
-
-
-**I Mostly Code in Java** 
-
-```text
-Java                     14 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
-Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   32.35% 
-Jupyter Notebook         6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/xXAI-botXx/xXAI-botXx/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 18:18:25 UTC
-<!--END_SECTION:waka-->
-
-<!-- see here: https://github.com/anmol098/waka-readme-stats-->
-
-<!-- you can use following command instead of the gradient colors: &theme=aura_dark -->
-<!-- Or Gradient color: &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
 
 <br><br>
 ___
