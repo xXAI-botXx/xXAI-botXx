@@ -172,7 +172,7 @@ Content:<br><br>
 ### Presentations
 
 In addition I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding with many animations and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
-Here I will share some of my prasentations with you. Feel free to watch a few of them :)
+Here I will share one of my prasentations as example for you.
 
 <div align=center>
 
@@ -190,6 +190,7 @@ A presentation about the GPT-3 Paper.
 
 <br><br>
 
+<!--
 ---
 <h3><a href=https://prezi.com/view/KOqFTcdj01JzbzEXPm0j>Mean Shift</a></h3>
 
@@ -218,6 +219,7 @@ My part is Einführung, Word2Vec, Location + Type, Anwendung.
 <br><br>
 And there are more 🥳
 
+-->
 
 </div>
 
@@ -227,10 +229,10 @@ And there are more 🥳
 
 
 <!-- adding soft skills? -->
-
+<!--
 <br>
 
-___
+___ -->
 <!--### My Work-->
 <!--
 <a name="My-Work"></a>
