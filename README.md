@@ -1,3 +1,9 @@
+<div align="right">
+
+[📌 Open Helper Repo](https://github.com/xXAI-botXx/Project-Helper)
+
+</div>
+
 <div align="center">
 
 [![Awesome Intro](https://img.youtube.com/vi/6TDvzrRI7SE/maxresdefault.jpg)](https://youtu.be/6TDvzrRI7SE)
@@ -6,8 +12,6 @@
 <h2>Deep Learning | Computer Vision | Generative AI</h2>
 
 </div>
-
-
 
 <br>
 <br>
@@ -30,20 +34,22 @@
 <div align="center">
 
 [<img style="margin:15px" OnMouseOver="this.style.width='170px'" OnMouseOut="this.style.width='100px'" alt="My Skills" width="100px" src="./res/banner/icon_my_skills.png">](#My-Skills)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img style="margin:15px" alt="My Work" width="100px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Showroom" width="100px" src="./res/banner/icon_showroom.png">](#Showroom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Stats" width="100px" src="./res/banner/icon_stats.png">](#Stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="Connect with me" width="100px" src="./res/banner/icon_connect.png">](#Connect-with-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<!-- [<img style="margin:15px" alt="My Work" width="100px" src="./res/banner/icon_my_work.png">](#My-Work)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+
 </div>
+
+
 
 <br><br>
 
-Hey, I’m Tobia, also known as xXAI-botXx! I’m an AI Engineer, leveraging my experience and studies in Artificial Intelligence at Offenburg University in Germany (Bachelor of Science and currently pursuing a Master of Science).. My journey into tech began with Java, where I created 2D games like a low-budget Bomberman and an own game called Falling Champion. While I fulfilled my dream of making games, I discovered a new passion in the world of data and artificial intelligence, which has since become my career focus.
-
-As an AI Engineer, I’ve worked on diverse projects in reinforcement learning, computer vision, forecasting, and more. What I love most about AI is its versatility—there’s always something new to explore and learn. My strengths lie in my motivation to tackle challenging tasks, my commitment to continuous learning, and my emphasis on thorough documentation. You can check out my projects and contributions on my Repos here. Feel free to reach out—I’m always open to connecting!
-
-When I’m not immersed in the world of zeros and ones, I enjoy spending time in nature and pursuing my passion for photography (though I still have a lot to learn). I’m also an avid reader and listener of books, with a preference for fantasy and science fiction. Crime and thriller? Not so much.
+Hello there, I'm Tobia or xXAI-botXx here.<br>
+I'm an AI Engineer / ML Engineer currently making my master in the field of AI in the Offenburg University of Applied Sciences where I already made my Bachelor of Science in the field of AI.<br>
+My world is classical Data Science (Visualizations, Data Analyzation, Classic Machine Learning Algorithms) and I feel even more comfortable in Deep Learning with a specialization towards Computer Vision.<br>
+I see my strength in my motivation to solve difficult tasks and in documenting my work in detail.
 
 > P.S. If you’re wondering about the name "xXAI-botXx," try reading it backward—but 🤫!
 
@@ -65,9 +71,31 @@ ___
 
 
 <br><br> 
+
+### In Short
+- **Data Processing**
+- **Data Visualization**
+- **Data Analyzation**
+- **Classical Machine Learning**
+  - SVM, Naive Bayes, ...
+  - Scikit Learn
+- **Deep Learning** (Neural Networks)
+  - Computer Vision
+  - Reinforcement Learning
+  - Natural Language Processing
+  - State of the Art Techniques
+  - PyTorch
+  - TensorFlow
+
+<br><br>
+
+### Example projects
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Depth-Anything-V2-Physgen&theme=aura_dark)](https://github.com/xXAI-botXx/Depth-Anything-V2-Physgen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=torch-mask-rcnn-instance-segmentation&theme=aura_dark)](https://github.com/xXAI-botXx/torch-mask-rcnn-instance-segmentation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=3xM&theme=aura_dark)](https://github.com/xXAI-botXx/3xM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Genetic-Algorithm&theme=aura_dark)](https://github.com/xXAI-botXx/Genetic-Algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=comfortable-yolact&theme=aura_dark)](https://github.com/xXAI-botXx/comfortable-yolact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Calm-down-bot&theme=aura_dark)](https://github.com/xXAI-botXx/Calm-down-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xXAI-botXx&repo=Wer-hat-gebohrt&theme=aura_dark)](https://github.com/xXAI-botXx/Wer-hat-gebohrt)
@@ -78,7 +106,9 @@ ___
 
 
 
-## My Exam Work for my Bachelor of Science:
+### My Exam Work for my Bachelor of Science
+
+<br>
 
 <a href="https://1drv.ms/b/s!AqSTBkFULemxmJgnJLD-nk2EkOn5dA?e=8EEuwZ">
 <div>
@@ -93,7 +123,8 @@ Grade: 1,7<br>
 <br>
 <br>
 
-## Certifications
+<!--
+### Certifications
 
 <div align=center>
 
@@ -136,10 +167,11 @@ Content:<br><br>
 
 <br>
 <br>
+-->
 
-## Presentations
+### Presentations
 
-In addition to that I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding with many animations and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
+In addition I bring other skills with me. Among other things, presentation skills. My presentations are created for visual understanding with many animations and only make 100% sense when spoken. So far I have received extremely good feedback for my way of presenting and I always enjoy it very much. <br>
 Here I will share some of my prasentations with you. Feel free to watch a few of them :)
 
 <div align=center>
@@ -181,29 +213,6 @@ My part is Einführung, Word2Vec, Location + Type, Anwendung.
 <img width=750 src=https://user-images.githubusercontent.com/50902823/183381292-a35cefef-1d5b-4218-ae63-733bf92622f4.png></img>
 <br><br>
 
----
-<h3><a href=https://prezi.com/view/7mU4Cw0tUzXC6Ljgf36I>Projekt 1: Automation</a></h3>
-
----
-My part is the full presentation.
-<br><br><br>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183375138-9f9b748d-f1be-41db-8762-3499a119ff1c.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183382333-48835b46-9da9-4a85-ad2a-a441595c865d.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183381798-47a09d53-253c-48f7-a213-6912c1d92ada.png></img>
-<br><br>
-
----
-<h3><a href=https://prezi.com/view/KPaFuUE4Su0TQ6gRGPue/>JVM</a></h3>
-
----
-My part is the full presentation.
-<br><br><br>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183375643-becaef21-2cce-40b3-8ccb-8cb3974e0b44.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183382662-300576c9-a6bf-4596-a8cd-0a6e51753768.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183382956-47036cc0-ec21-48f6-940b-39fe404fe14c.png></img>
-<img width=750 src=https://user-images.githubusercontent.com/50902823/183383221-6065976a-88b2-4f6a-8100-9c0b5b3a463a.png></img>
-<br><br>
-
 
 
 <br><br>
@@ -223,6 +232,7 @@ And there are more 🥳
 
 ___
 <!--### My Work-->
+<!--
 <a name="My-Work"></a>
 [<img width="100%" align="center" src="./res/banner/banner_my_work.png"></img>](#top)
 
@@ -339,14 +349,11 @@ To simplify that, I listed my repositories by category and with some words to cl
 - [Deep-Learning-for-Medical-Images](https://github.com/xXAI-botXx/Deep-Learning-for-Medical-Images)<br>
    This repo covers some basics for deep learning in the field of medical images. There are also some easy basics about numpy and pytorch.
 
-
-<!-- Maybe add some pictures and videos directly here ? -->
-<!-- Add README's to each repo and add pictures and videos for them -->
-
 <br>
-That are my repositories (since the date 06.06.2022).
+That are my repositories (since the date 31.05.2025).
 
 <br><br>
+-->
 
 ___
 <!--### Showroom -->
@@ -355,13 +362,15 @@ ___
 
 <br><br><br>
 
-Here i will provide some pictures and videos. I think it's interesting to see something :)
+Here i will provide some pictures and videos. I think it's interesting to see something 😊
 
+<!--
 <div align="center">
 
 [![Awesome Intro](https://img.youtube.com/vi/CCux_wlTmgo/maxresdefault.jpg)](https://youtu.be/CCux_wlTmgo)
     
 </div>
+-->
 
 <br><br>
 
@@ -550,8 +559,9 @@ ___
 
 I hope you liked my profile and maybe you want to connect with me :)<br>
 Every Icon stands for a different platform and a click on it leads you to their website. In addition to that, every icon has a tooltip with my username in it -> so hover the icon and stay there for a second to see my data.
-<br><br>
-By the way, my insider tip among social media is Slowly. 
+
+<!--<br><br>
+By the way, my insider tip for new friendships among social media is Slowly. -->
 
 <br><br><br>
 
@@ -563,8 +573,10 @@ By the way, my insider tip among social media is Slowly.
 [<img style="margin:15px" alt="xXAI-BotXx | Discord" width="50px" src="https://simpleicons.org/icons/discord.svg">](https://discord.com/ "<<AI_bot>>#5130")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img style="margin:15px" alt="xXAI-BotXx | Replit" width="50px" src="https://simpleicons.org/icons/replit.svg">](https://replit.com/@xXAIbotXx "xXAIbotXx") 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!--
 [<img style="margin:15px" alt="xXAI-BotXx | Slowly" width="50px" src="https://user-images.githubusercontent.com/50902823/191069497-e167047c-a4ef-4d19-8d68-4a52f90af414.svg">](https://web.slowly.app/home "Slowly ID: 95EDDK")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 </div>
 
@@ -575,6 +587,7 @@ ___
 Special thanks to [Elisa Wilkes](https://www.linkedin.com/in/elisa-wilkes-4691a9198) for the creation of the illustrations
 ___
 
+<!--
 <br><br>
 
 <div align="center">
@@ -582,3 +595,4 @@ ___
 [![Awesome Intro](https://img.youtube.com/vi/vWRgtlACfYw/maxresdefault.jpg)](https://youtu.be/vWRgtlACfYw)
     
 </div>
+-->
